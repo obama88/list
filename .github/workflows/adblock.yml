@@ -163,6 +163,6 @@ jobs:
           git checkout -b master
           git add .
           git commit -m "${{ env.RELEASE_NAME }}"
-          git remote padd origin "https://${{ secrets.GITEE_ACCOUNT }}:${{ secrets.GITEE_PASSWORD }}@gitee.com/${{ secrets.GITEE_NAME }}/list.git"
+          git remote add origin "https://${{ secrets.GITEE_ACCOUNT }}:${{ secrets.GITEE_PASSWORD }}@gitee.com/${{ secrets.GITEE_NAME }}/list.git"
           git remote set-url --add origin "https://${{ secrets.CODING_ACCOUNT }}:${{ secrets.CODING_PASSWORD }}@e.coding.net/${{ secrets.CODING_NAME }}/list.git"
           git push -u -f origin master
