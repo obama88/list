@@ -2,9 +2,9 @@ name: Build adblock rules files
 on:
   schedule:
     - cron: "0 */4 * * *"
-  push:
-    branch:
-      - "workplace"
+#  push:
+#    branch:
+#      - "workplace"
 env:
   PUSH_TO_RELEASE: false
 jobs:
@@ -144,7 +144,8 @@ jobs:
         if: steps.diffResult.outputs.status == 'success'
         run: |
           cd ./old
-          git init
+          #rm -rf .git/
+          #git init
           sed -i '/url =/d' ./.git/config
           git config --local user.name "actions"
           git config --local user.email "action@github.com"
@@ -153,4 +154,5 @@ jobs:
           git remote set-url --add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           git remote set-url --add origin "https://${{ secrets.GITEE_ACCOUNT }}:${{ secrets.GITEE_PASSWORD }}@gitee.com/${{ secrets.GITEE_NAME }}/list.git"
           git remote set-url --add origin "https://${{ secrets.CODING_ACCOUNT }}:${{ secrets.CODING_PASSWORD }}@e.coding.net/${{ secrets.CODING_NAME }}/list.git"
-          git push -u -f origin master
+          git push -u origin master
+          #git push -u -f origin master
