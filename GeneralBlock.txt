@@ -293,6 +293,8 @@ www.ithome.com##.content>a[href="http://m.ithome.com/ithome/"]
 ||banana.le.com/letv_tracker.js$domain=m.le.com
 ||dc.letv.com/op/?
 ||player.letvcdn.com/*/newplayer/1/WatchingBuy.swf
+! leisu
+@@||tracker.namitiyu.com^$script
 ! mgtv
 m.mgtv.com##.mg-dcross
 www.mgtv.com##.m-headgg
