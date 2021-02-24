@@ -294,7 +294,7 @@ www.ithome.com##.content>a[href="http://m.ithome.com/ithome/"]
 ||dc.letv.com/op/?
 ||player.letvcdn.com/*/newplayer/1/WatchingBuy.swf
 ! leisu
-@@||tracker.namitiyu.com^$script
+@@||tracker.namitiyu.com^
 ! mgtv
 m.mgtv.com##.mg-dcross
 www.mgtv.com##.m-headgg
