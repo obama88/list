@@ -2,9 +2,9 @@ name: Build YueDu Sources files
 on:
   schedule:
     - cron: 30 21 * * *
-  push:
-    tags:
-      - "yuedu*"
+#  push:
+#    tags:
+#      - "yuedu*"
 
 env:
   CLEAN_TAGS: false
