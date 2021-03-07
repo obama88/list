@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hn7pFGonMY9t4Cga9xp6Iw
+! Checksum: ewtfeyEfkuWtQy/q+9Ex2A
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202103040415
-! Last Modified: 2021年03月04日 04:15
+! Version: 202103071626
+! Last Modified: 2021年03月07日 16:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -231,7 +231,6 @@ _adblock_killer.
 ##.ad-block-message
 ##.ad-block__overlay
 ##.ad-blocked
-##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
 ##.ad_block_detected
 ##.ad_block_off
@@ -258,14 +257,11 @@ _adblock_killer.
 ##.adblockOverlay
 ##.adblock_detector
 ##.adblock_enabled
-##.adblock_floating_message
 ##.adblockalert
 ##.adblocker-message
 ##.adblocker-wrap
-##.ads-block-warning
 ##.adsblocked
 ##.counterAdblocks
-##.deadblocker-header-bar
 ##.deadblocker-header-bar-inner
 ##.dispositifAdblock
 ##.dispositifAdblockContent
@@ -400,7 +396,6 @@ forum.qrz.ru,hentaiz.org,life.ru,mastergrad.com,wallpapershome.ru##.adblock
 pimpletv.ru##.adblock-notification
 nevasport.ru##.adblock-notify
 exler.ru##.adblock-pls
-##.adblock-stop
 zakon.kz##.adblock_alert
 tassbiz.ru##.adblock_notif
 ogorod.ru##.adblock_popup_warning
@@ -597,13 +592,11 @@ arabseed.me,baramjak.com,hawak.net,movizland.com,movizland.online,egyanime.com,e
 ! #CV-754
 akoam.com,akoam.net,akwam.co,akwam.cx,akwam.net,akwam.org,gocoo.co#$#abort-on-property-read String.fromCharCode
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/bulgarian.txt ***
-! #CV-667
 gledaiseriali.net#$#abort-current-inline-script Math zfgloaded
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/chinese.txt ***
 ! #CV-767
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#$#hide-if-contains 广告 .c-container '.f13 > .m'; hide-if-contains 广告 #content_right>[class] span[data-tuiguang]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com#$#abort-current-inline-script _ top_pic
-! MISC
 torrentkitty.tv#$#abort-on-property-read _fupfgk;abort-on-property-read _nyjdy
 178.com,nga.cn#$#abort-on-property-write __LOAD_BBS_ADS_12
 cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
@@ -611,7 +604,6 @@ cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
 ahri-hentai.com#$#abort-current-inline-script document.querySelectorAll popMagic
 ! Popups & Popunders
 cocomanhua.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
-! #CV-667
 hdzone.org#$#abort-current-inline-script Math zfgloaded
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/czech.txt ***
 ! #CV-655
@@ -1150,7 +1142,6 @@ clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > .Result-ico:not([cl
 clanky.seznam.cz,search.seznam.cz#?#:-abp-has(> .Result--organic .Result-title-link:not([class="Result-title-link"]))
 clanky.seznam.cz,search.seznam.cz#?#.Result:-abp-has(.Result--organic [class^="Result-contentContainer _"])
 clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-title + .Result-contentContainer > :not(.Result-url):not(.Result-dw-wrapper):not(.Result-image) > :not([class="Result-url-link Result-url-link--cr-result"]):not(span):not(.AnchorList-list))
-! MISC
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
@@ -1382,7 +1373,6 @@ thegatewaypundit.com##a[href*="cloudfront.net"]
 ! #CV-666
 eztv.re,pstream.net,biter.tv,byter.tv#$#abort-on-property-write adcashMacros
 mkvcage.com,pastehere.xyz,vidshare.tv,govid.me,hdvid.tv,ovid.pro#$#abort-on-property-read adcashMacros
-! MISC
 baytorrent.eu.org,europixhd.com,europixhd.net,file-up.org,force-download.com,force-download.es,force-download.fr,force-download.net,gledajonline.net,hdeuropix.io,loadsubs.net,novom.ru,pirateproxy.earth,pirateproxy.live,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay10.org,topeuropix.net,tpb.party,uploadproper.com,uploadproper.net#$#abort-on-property-read atob
 bagas31.info#$#abort-on-property-write atob
 rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,rarbgmirror.com,rarbgmirror.org,rarbgmirrored.org,rarbgproxy.org,rarbgprx.org,rarbgto.org,rarbgunblock.com,rarbgweb.org#$#abort-on-property-read LieDetector
@@ -1416,14 +1406,12 @@ clicknupload.co#$#abort-on-property-read _qwprvw; abort-current-inline-script Ob
 revivelink.com#$#abort-on-property-read btoa; abort-current-inline-script Object.defineProperty XMLHttpRequest
 youdbox.com#$#abort-on-property-read encodeURIComponent
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-! #CV-667
 gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
 getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw,clipwatching.com,protect-mylinks.com#$#abort-current-inline-script document.createElement String.fromCharCode
 getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw#$#abort-on-property-write Fingerprint2
 gogoanimes.tv#$#abort-on-property-write atob
 holavid.com,liivideo.com#$#abort-on-property-read Math.sin
 watchcartoonsonline.la#$#abort-current-inline-script document.createElement
-! #CV-685
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 kissjav.com#$#abort-on-property-read open; abort-on-property-read decodeURIComponent
 123putlocker.club#$#abort-current-inline-script _0xbc13
@@ -1435,7 +1423,6 @@ flashx.pw,flashx.tv#$#abort-on-property-read affLink
 adpop.me,amyscans.com,apurogol.net,aquipelis.net,arenavision.in,arenavision.us,assistirfilmesonlinex.biz,blogdepelis.com,canalenvivogratis.com,ciberdvd.tv,cinedetodo.net,cinemitas.com,cliver.tv,danfra.com,dclinks.info,descargarplaystore.net,desmaxgo.com,elitegoltv.me,extreme-d0wn.net,filmesonlinegratis.com,futbollibre.online,hqq.tv,hqq.watch,inkapelis.com,inkapelis.to,legionpeliculas.org,legionprogramas.org,lhmjihd.blogspot.com,limpi.tv,livefootball.live,locopelis.com,maistudo.net,megawarez.org,mostafidoun.com,pastepvp.org,peliculas-cine.com,peliculas24.me,peliculascine.net,peliculasdeprincesas.net,peliculasio.com,peliculasyseries.org,pelisgratis.me,pelishd.live,pelisplanet.com,pelisplus.online,pelix.tv,pirlotv.com.es,pruiebannnn.blogspot.com,recpelis.net,repelis.net,rojadirectatv.info,rojadirectatv.stream,serialosy.pl,series21.com,series911.com,seriesflixapp.net,seuseriado.com,seutorrent.com,siestrenos.com,sonpelishd.com,sonpelishd.net,tarjetaroja.eu,tarjetaroja.online,tarjetarojaonline.tv,tarjetarojatvonline.com,tecmaxsoft.com,televisionparatodos.tv,tuzonafut.net,verpeliculasenlatino.com,voirfilm.me,voirfilms.mx,webtvonlive.com,hdvid.tv,ovid.pro#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
 ! #CV-368
 kimcartoon.to#$#abort-on-property-read NativeAd
-! Popup/Popunder/Clickunder
 streamtape.to,streamtape.cc,streamtape.net,streamtape.xyz,streamtape.com,rlslog.net,hclips.com,pornhat.com,dood.so,dood.to,dood.video,dood.watch,doodstream.com,vidstreaming.io,mstream.fun,xnxxvideo.pro,xvideosxporn.com,porndollz.com,hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.icu,mstream.rocks,mstream.xyz,mystream.io,iframe-secured.com,pandamovies.pw,configspc.com#$#abort-on-property-read open
 baytorrent.eu.org,dood.so,dood.to,dood.video,dood.watch,doodstream.com,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,isohunt.lol,isohuntz.net,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,projectfreetv.ag,streamtape.cc,streamtape.com,streamtape.net,streamtape.to,streamtape.xyz,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidshare.tv,youdbox.com#$#abort-on-property-write _pop
 streamtape.to,streamtape.cc,streamtape.net,streamtape.xyz,streamtape.com#$#abort-on-property-write _pao
@@ -1466,9 +1453,7 @@ ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-
 ebay.de#$#hide-if-contains-visible-text ANZEIGE 'li.s-item' 'li.s-item span[role="text"]'
 ! #CV-698
 thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq
-! #CV-667
 3movierulz.tv,7-up.net,7deadlysins.tv,abcvideo.cc,animetrick.com,avimobilemovies.co,aznewhomes4u.com,batimovie.com,canonprinterdownload.com,carol-goldnerova.info,celebritiesempire.com,clipwatching.com,dailyuploads.net,dood.so,dood.to,dood.video,dood.watch,doodstream.com,downloadgamexbox.com,dragonballsuperdub.com,dramacool.movie,dramacool.video,fanproj.net,filmovi.co,fullasianmovies.com,gamepc18.net,giaoxudaiphu.com,haqqinda.az,hot-chicks.website,hotshotgamers.net,hunstulovers.net,indishare.org,isohunt.lol,isohuntz.net,kshows.to,ling.online,livecricket.is,mobilemovies.info,movies123.xyz,mybet.tips,myrightspot.com,naijal.com,pornlibrary.net,premiumkeyesetnod32.blogspot.com,prostream.to,putlocker68.com,putlockers.fm,putlockertv.ist,sandup.co,thevideobee.to,uqload.com,vidbem.com,vidbm.com,videojinni.com,vidfast.co,vidlox.me,vidshar.tv,vidshare.tv,vidstreaming.io,vostfrserie.biz,watchblackclover.com,watchboruto.com,watchdbzsuper.tv,watchgintama.com,watchmha2dub.com,watchoverlord2.com,watchshokugeki.com,xmovies8.so,xyupload.com,youdbox.com#$#abort-current-inline-script Math zfgloaded
-! #CV-754
 2gomovies.to#$#abort-on-property-write _0x287f; abort-on-property-write _0x2f53; abort-on-property-write _0x16f4
 topwwnews.com#$#abort-on-property-read localStorage
 ! #CV-697
@@ -1484,16 +1469,13 @@ crunchyroll.com#$#json-prune 'value.media.ad_breaks'
 ! #CV-776
 bing.com#?#.b_algo:-abp-has(p[class])
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/french.txt ***
-! #CV-663
 letocard.fr#$#freeze-element .nav-menu abort [id^="menu-item-"]
 mamieastuce.com#$#freeze-element #sidebar abort .widget_text
 concomber.com#$#freeze-element .main-box abort
 meilleurpronostic.fr#$#freeze-element #secondary abort aside
 aupetitparieur.com#$#freeze-element .widget-area abort
-! #CV-741
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
 pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
-! #CV-170
 lephoceen.fr,supertoinette.com#$#abort-on-property-read setInterval
 ||polaccafaison.com^$third-party
 ||wyacondahamptonville.com^$third-party
@@ -1507,7 +1489,6 @@ lephoceen.fr,supertoinette.com#$#abort-on-property-read setInterval
 ||ladepeche.fr/taffrail^
 ||laprovence.com/fatalistic^
 ||e-sante.fr/responsiblenesses^
-! #CV-662
 ||1yv1phk.jaz.sportauto.fr^$script
 ||1v9d7vx.jaz.sportauto.fr^$script
 ||ib3i33.cob.autojournal.fr^$script
@@ -1527,7 +1508,6 @@ lephoceen.fr,supertoinette.com#$#abort-on-property-read setInterval
 ||ugeolf.com^$script
 ||qlwgkw.com^$script
 ||bfxxcram.com^$script
-! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read _pop
 japscan.cc,japscan.com,japscan.se,japscan.to#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode; abort-current-inline-script Object.defineProperty XMLHttpRequest
@@ -1536,14 +1516,10 @@ linfoweb.com#$#abort-on-property-write num
 down-paradise.com#$#abort-on-property-read open
 1fr1.net,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumpro.fr,forums-actifs.com,lebonforum.com,lemondedudiagauto.com,open-consoles.com,passionmilitaria.com,superforum.fr,vttpoitou.com##a[onclick^="this.href=atob"]
 1fr1.net,forum-gratuit.net,forum2jeux.com,forumactif.fr,forumpro.fr,forums-actifs.com,lebonforum.com,lemondedudiagauto.com,open-consoles.com,passionmilitaria.com,superforum.fr,vttpoitou.com#$#abort-on-property-read atob
-! #CV-368
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extreme-down.xyz,extreme-download.cc,extreme-download.ch,extreme-download.im,extreme-download.me,extreme-download.ninja,extrem-down.vip,extreme-down.video,extreme-download.xyz,voiranime.com#$#abort-on-property-read NativeAd
-! #CV-667
 voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
 flystream.fr,filmtelecharger.net,jetanimes.co,libertyvf.co,libertyvf.tv,libertyvf.com,streaming-one.com,extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extrem-down.vip,extreme-down.video,extreme-down.xyz,extreme-download.cc,extreme-download.ch,extreme-download.im,extreme-download.me,extreme-download.ninja,extreme-download.xyz#$#abort-current-inline-script Math zfgloaded
-! MISC
 french-streams.com#$#abort-on-property-read open
-! Popup/Popunder
 batporno.com#$#abort-on-property-read decodeURI
 jetanimes.co#$#abort-on-property-read atob
 vostfree.com#$#abort-on-property-write _pop
@@ -1555,7 +1531,6 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ! #CV-749
 ! #CV-765
 pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
-! #CV-662
 ||1df6a41.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 ||hmwltp.vqysgzi.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 ||1rjpi15.akvxu.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
@@ -1586,7 +1561,6 @@ privacy-mgmt.com#@#.consent-content
 finanzen.ch#@##cookie-overlay	
 finanzen.ch#@#.cookie-overlay
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/hebrew.txt ***
-! #CV-741
 yad2.co.il#$#abort-current-inline-script TextDecoder
 walla.co.il#$#abort-on-property-read jorLoad20a
 ! #CV-890
@@ -1598,17 +1572,12 @@ walla.co.il,sheee.co.il##a[on^="tap:exit-api.exit(target='landingPage',_googClic
 walla.co.il,sheee.co.il##a[href^="https://kvdhzjfrudaxrleb."], a[href*="/m.php?ziga="]
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/hungarian.txt ***
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/indian.txt ***
-! #CV-741
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
-! #CV-669
 newstm.in,3pm.in##a[href*="/click.htm?"][target="_blank"]
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/indonesian.txt ***
-! #CV-667
 citpekalongan.com,designmyhomee.com,mangacanblog.com,marthamatika.com,tokusatsuindo.com,unbrick.id#$#abort-current-inline-script Math zfgloaded
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/italian.txt ***
-! #CV-667
 mp3-gratis.it#$#abort-current-inline-script Math zfgloaded
-! Popup/Popunder
 streamingcommunity.net#$#abort-current-inline-script String.fromCharCode /btoa|break/
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/latvian.txt ***
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/lithuanian.txt ***
@@ -1650,26 +1619,18 @@ dom.wp.pl,wiadomosci.wp.pl,wawalove.wp.pl,turystyka.wp.pl,teleshow.wp.pl,opinie.
 parenting.pl,echirurgia.pl,dobreprogramy.pl,abczdrowie.pl,wp.pl#$#override-property-read rekid 0
 wp.pl#$#abort-on-property-write gafReady
 wp.pl,pudelek.pl,dobreprogramy.pl,abczdrowie.pl,parenting.pl,nerwica.com,autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl,gadzetomania.pl#$#hide-if-contains-image-hash 01fbaba1e1e124f6,0f0f0f0f0f0f8f0e,01df646e662e74f0,06cf03f57c0ecf0c,c4d65c1edc1342e7,7a58585e5e1c465e,80dfccccc0becee0,676866473734f464,0bf170f404efc539,f870303c3c3000ff,0f0f8f070f0fcf06,5a5a7a5878783a3a,10f7e703385e2f23,1f38f838f0f0e8f0,e343e3a223e3cb07,ff001a1f1d36fc03,0f1b1f191f38381f,f8e003e77f80073b,3c3c7e180c7e3c3c,781e8f83e10f8f83,f98180fb8fc18f85,08dfdc1c1e5cfe10,3f090f87870f0c9f,c783eec00cee8357,60bd7e18107f3c3c,f8f8c1d3c3c3d385,7f0183677781db81,7e7e0f0f1cf4ff00,1cbc81f3c3c3db81,713c1f074f073707,01df646e662e74f0
-! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
 naekranie.pl#$#abort-on-property-read adQueue
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/portuguese.txt ***
-! #CV-660
-! #CV-741
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder
-! #CV-692
 anitube.be,anitube.cx,anitube.cz#$#abort-on-property-write _pop
-! MISC
 ||torcidatricolor.tv/*.gif$image
 kastream.biz#$#abort-on-property-write open
 filmesonlinegratis.com#$#abort-on-property-read atob
-! #CV-667
 filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/romanian.txt ***
-! #CV-667
 4bac.ro,cinemasfera.com,filme-bune.biz#$#abort-current-inline-script Math zfgloaded
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/russian.txt ***
-! #CV-717
 yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az,yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains-and-matches-style /[pр]\\u200c*[eе]\\u200c*к\\u200c*л\\u200c*[aа]\\u200c*м\\u200c*[aа]/ li.serp-item 'li.serp-item span.label-direct svg text' /./ '/\\bfill: rgb\\(51, 47, 30\\);/'
 yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az,yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains /[pр](\\n|.)*?[eе](\\n|.)*?к(\\n|.)*?л(\\n|.)*?[aа](\\n|.)*?м(\\n|.)*?[aа]/ li.serp-item 'li.serp-item div.label'
 yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az,yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains-and-matches-style /.?/ li.serp-item 'li.serp-item span.label-direct' /./ 'background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1OSAxNSI+PHJlY3Qgd2lkdGg9IjU5IiBoZWlnaHQ9IjE1IiByeD0iNyIgcnk9IjciIGZpbGw9IiNmMmYyZjIiLz48dGV4dCB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2IDExKSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzMzMmYxZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEiPtGA0LXQutC70LDQvNCwPC90ZXh0PjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoMXYxSDB6IiBvcGFjaXR5PSIuMDQiLz48L3N2Zz4=");'
@@ -1699,7 +1660,6 @@ razlozhi.ru,24smi.org,auto.ru,drive2.ru,gorodrabot.ru,kinopoisk.ru#$#abort-on-pr
 24smi.org#$#abort-current-inline-script document.createElement appendChild; abort-current-inline-script document.createElementNS
 /^https:\/\/st2\.razlozhi\.ru\/\w{9}\/.{100,300}$/$script,domain=razlozhi.ru
 gorodrabot.ru#$#abort-on-property-read Object.prototype.storeBlockSettings
-! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read document.documentElement.createShadowRoot
 gismeteo.ua#$#abort-on-property-read eval
@@ -1724,7 +1684,6 @@ indoxx1.show##img[src^="blob:https://indoxx1.show/"]
 megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-read atob
 ! #CV-712
 7days.ru,7ogorod.ru,agrognom.ru,alau.kz,argumenti.ru,argumentiru.com,etotprazdnik.ru,fermilon.ru,fishki.net,globuss24.ru,gorodche.ru,kp.ru,mashintop.ru,maxpark.com,news.ru,newsland.com,ogodom.ru,pasmi.ru,politros.com,shtrafsud.ru,svpressa.ru,teleprogramma.pro#$#abort-on-property-write ccJugger
-! MISC
 scrin.org#$#abort-on-property-read Math.random
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
 3dnews.ru#$#abort-on-property-read Ya
@@ -1785,14 +1744,12 @@ kinogo.eu,gidonline.eu#$#abort-on-property-read target_script
 radikal.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-read ads_script; abort-on-property-read atob; abort-on-property-read loaded_blocks_directadvert; abort-on-property-read utarget_script
 ! #CV-742
 vesti.ua#$#abort-current-inline-script document.createElement atob
-! #CV-685
 vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
 ! CV-715
 kriminal.tv,4studio.com.ua,112ua.tv,newsoneua.tv,zikua.tv,gorodkiev.com.ua,volynpost.com,uanews.org.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,fakty.ua,cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
 ! #CV-716
 prm.ua,vgolos.com.ua,begemot-media.com,portal.lviv.ua,4studio.com.ua,moirebenok.ua,mi100.info,gorodkiev.com.ua,radiosvoboda.org,glavpost.ua,volynua.com,profootball.ua,sport-kr.com.ua,risu.ua,telekritika.ua,day.kyiv.ua,vsviti.com.ua,praktika-vlasti.com.ua,westnews.info,iz.com.ua,khersonline.net,rivnenews.com.ua,greenpost.ua,politnavigator.net,golosinfo.com.ua,wworld.com.ua,tverigrad.ru,novynarnia.com,apnews.com.ua,cn.ua,podpricelom.com.ua,begemot.media,beauty.ua,tvoymalysh.com.ua,superdom.ua,viva.ua,edinstvennaya.ua,ratel.kz,ekovolga.com,mind.ua,itechua.com,argumentiru.com,forpost.media,gov.ua,ternopillive.com.ua,te.ua,uanews.org.ua,fraza.com,uainfo.org,economistua.com,odessa-life.od.ua,autotheme.info,volnorez.com.ua,newsoneua.tv,expert.in.ua,pg11.ru,tverisport.ru,novavlada.info,zikua.tv,rusjev.net,uatv.ua,dyvys.info,cheline.com.ua,sud.ua,asiaplustj.info,wpristav.ru,poltava365.com,unn.com.ua,1news.com.ua,365news.biz,4mama.ua,7days-ua.com,cikavosti.com,comments.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,fedpress.ru,glavnoe.ua,glavnoe24.ru,inforpost.com,kurskcity.ru,liga.net,narodna-pravda.ua,pingvin.pro,pl.com.ua,real-vin.com,russianshowbiz.info,semobile.com.ua,vchaspik.ua,versii.if.ua,volyninfo.com,womo.ua,volynpost.com#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
 marieclaire.ua#$#abort-current-inline-script redram /загрузка.../
-! #CV-667
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 ! #CV-747
 /^https:\/\/zoomdecorate\.rambler\.ru\/.{100,300}$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
@@ -1813,27 +1770,19 @@ rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
 112ua.tv,24boxing.com.ua,4mama.ua,avtovod.com.ua,avtovod.org.ua,besplatka.ua,bilshe.com,buhgalter.com.ua,buhgalter911.com,businessua.com,censor.net,dengi.ua,enovosty.com,epravda.com.ua,eurointegration.com.ua,f1analytic.com,facenews.ua,football-ukraine.com,football24.ua,footballtransfer.com.ua,forumodua.com,gismeteo.ua,gorod.dp.ua,hvylya.net,inforesist.org,internetua.com,kolobok.ua,kp.ua,kriminal.tv,lifedon.com.ua,mport.ua,nashamama.com,newsyou.info,nnovosti.info,okino.ua,ostro.org,perevod.i.ua,real-vin.com,segodnya.ua,sinoptik.ua,smak.ua,sportanalytic.com,toneto.net,tv.ua,tvgid.ua,u-news.com.ua,udoktora.net,vsetv.com,zdorovia.com.ua#$#override-property-read String.prototype.charCodeAt trueFunc
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/spanish.txt ***
-! #CV-667
 envivotv.net,lucenpop.com.es,pokefanleoretrogames.com,topflix.tv#$#abort-current-inline-script Math zfgloaded
 ! #9272
 mamaslatinas.com##.top-bar-content
-! #CV-663
 telexplorer.com.ar#$#abort-current-inline-script MutationObserver compareDocumentPosition
-! #CV-751
 rojadirecta.fr#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
-! MISC
 peliculaseroticasonline.tv#$#abort-on-property-write _0x1dc1
 animeflv.cc#$#abort-current-inline-script JSON.parse
-! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
-! Popup/Popunder
 gamestorrents.com,gamestorrents.nu,perfectgirls.es#$#abort-on-property-read open
 gnula.nu,xpaja.net#$#abort-current-inline-script String.fromCharCode /atob|btoa|break/
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/swedish.txt ***
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/turkish.txt ***
-! #CV-717
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
-! #CV-667
 asksiirleri.org#$#abort-current-inline-script Math zfgloaded
 ! AakList (Anti-Adblock Killer)
 ! ----- Anti-Adblockers ------------------------------------------------------------------------------------------------------------------- !
@@ -1927,7 +1876,6 @@ asksiirleri.org#$#abort-current-inline-script Math zfgloaded
 /wp-content/plugins/ad-block-defender/*$script
 ! DeAdblocker
 ! https://wordpress.org/plugins/deadblocker/
-##.deadblocker-header-bar
 /wp-content/plugins/deadblocker/*$script,stylesheet
 ! NoAdblock Nice Message
 ! https://fr.wordpress.org/plugins/noadblock-nice-message/
@@ -1961,7 +1909,6 @@ asksiirleri.org#$#abort-current-inline-script Math zfgloaded
 /js/an-detect.min.js$script
 /js/an-scripts.js$script
 /js/an-scripts.min.js$script
-/wp-content/uploads/an-temp/*$script,stylesheet
 b-website.com#@##adsense
 ! AdUnBlock - http://adunblock.com
 ||adunblock.com/code/*.html
@@ -2183,7 +2130,6 @@ go4up.com##IMG[src="http://go4up.com/assets/img/downloadfr.gif"]
 !@@||adscale.de^$object-subrequest,domain=myspass.de
 !@@||movad.net^$object-subrequest,domain=myspass.de
 !@@||flashtalking.com^$object-subrequest,domain=myspass.de
-!@@||adscale.de^$object-subrequest,domain=myspass.de
 @@||myspass.de/myspass/includes/apps/video/getvideometadataxml.php?$object-subrequest
 @@||myspass.de/myspass/includes/apps/player/standard/avt_config.php?$object-subrequest
 @@||serving-sys.com^$third-party,domain=myspass.de
@@ -2553,7 +2499,6 @@ pencurimovie.cc##.adb_overlay
 pencurimovie.cc###simplemodal-overlay
 pencurimovie.cc###simplemodal-container
 ! sports.ru
-@@||sports.ru^*/adfox.$xmlhttprequest
 ! smashboards.com
 smashboards.com###noticeMain
 smashboards.com##.premiumContain
@@ -2589,7 +2534,6 @@ grifthost.com#@#.ad468
 @@||media.dota-trade.com/js/ads.js$script
 ! rojadirecta.me
 rojadirecta.me#@##adserver
-! planetatvonlinehd.blogspot.com
 planetatvonlinehd.blogspot.com#@#.adsantilok
 planetatvonlinehd.blogspot.com.ar#@#.adsantilok
 ! phonandroid.com
@@ -2668,14 +2612,12 @@ ville-ideale.com###espace
 ville-ideale.com###enc
 ville-ideale.com###antyp
 ! notre-planete.info
-! https://github.com/reek/anti-adblock-killer/issues/258
 notre-planete.info###abp1
 @@||notre-planete.info/medias/pub_300x250.png
 ! fan-de-cinema.com
 @@||c.ad6media.fr/l.js$domain=fan-de-cinema.com
 ! xiaopan.co
 xiaopan.co#@#.adsbygoogle
-! thebitcoinsheep.com
 thebitcoinsheep.com##.col-md-6 font[size="5"] > font[color="white"] > font[color="white"][size="3"]
 ! mobilevids.org
 ! https://github.com/reek/anti-adblock-killer/issues/347
@@ -2796,7 +2738,6 @@ yllix.com##[href^="http://click2.yllix.com/"]
 @@||widget.sharecash.org/jsclick.php$script
 ! naekranie.pl
 naekranie.pl###niceMessage
-! turbogenerator.info
 @@||turbogenerator.info/adblock.js$script
 ! givemesome.tips
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=givemesome.tips
@@ -2890,14 +2831,12 @@ plus-belle-la-vie-video.blogspot.com#@##adsense
 ! https://github.com/reek/anti-adblock-killer/issues/414
 @@||kozaczek.pl/js/ads.js$script,domain=kozaczek.pl
 ! zeberka.pl (isAdBlockActive=false;)
-! https://github.com/reek/anti-adblock-killer/issues/414
 @@||zeberka.pl/js/ads.js$script,domain=zeberka.pl
 ! videostar.pl
 @@||static-videostar2.4vod.tv/assets/js/adcheck.js$script,domain=videostar.pl
 @@||static-videostar2.4vod.tv/assets/js/adcheck.min.js$script,domain=videostar.pl
 ! srnet.eu
 @@||srnet.eu/ads2.js$script
-! carambatv.ru
 @@||ads.adfox.ru/crossdomain.xml$object-subrequest,domain=carambatv.ru
 ! proxywiky.com
 proxywiky.com###overlay-holder
@@ -2927,7 +2866,6 @@ videoproxy.in###overlay-holder
 @@||adsrv.gpm-digital.com/$object-subrequest,domain=rutube.ru
 @@||adv.gpm-digital.com/crossdomain.xml$object-subrequest,domain=rutube.ru
 @@||adv.gpm-digital.com/*now.ru$object-subrequest,domain=rutube.ru
-! rutube.ru
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$object-subrequest,domain=rutube.ru
 ! up2stream.com
 ! https://github.com/reek/anti-adblock-killer/issues/456
@@ -2939,7 +2877,6 @@ crypto-clix.net#@#.ad-footer
 ! hireteen.com
 ! https://github.com/reek/anti-adblock-killer/issues/462
 hireteen.com###adb-enabled
-! binbox.io
 ! https://github.com/reek/anti-adblock-killer/issues/466
 ! https://github.com/reek/anti-adblock-killer/issues/229
 @@||binbox.io/adblock.js$script
@@ -2974,7 +2911,6 @@ telepolis.pl##DIV[style="width:750px; height:200px; background-color:black; colo
 ! animedigitalnetwork.fr
 @@||animedigitalnetwork.fr/templates/adn/js/advertising.js$script
 ! comptoir-info.com
-comptoir-info.com#@#.textad
 ! adultmult.tv
 ! https://github.com/reek/anti-adblock-killer/issues/366
 @@||37.1.207.27/playlist/$subdocument,domain=adultmult.tv
@@ -3018,7 +2954,6 @@ tree.tv#@##adverts
 ! https://github.com/reek/anti-adblock-killer/issues/525
 @@||play.wtk.insys.pl/Scripts/InsysPlayer.v0.1.0/adTest.png$image
 @@||ad.adview.pl/ad/$xmlhttprequest,domain=play.wtk.insys.pl
-! xiaopan.co
 ! https://github.com/reek/anti-adblock-killer/issues/528
 ! https://github.com/reek/anti-adblock-killer/issues/264
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=xiaopan.co
@@ -3110,7 +3045,6 @@ turbodebrideur.com#@##pubdirecte
 @@||multiup.org/pop.js$script,domain=filesupload.org
 ! biggestplayer.me
 ! https://github.com/reek/anti-adblock-killer/issues/566
-biggestplayer.me##.masr
 popeoftheplayers.eu###html4
 ! krs-online.com.pl
 ! https://github.com/reek/anti-adblock-killer/issues/567
@@ -3123,7 +3057,6 @@ popeoftheplayers.eu###html4
 ! https://greasyfork.org/forum/discussion/5923
 ! https://github.com/reek/anti-adblock-killer/issues?q=nnm-club.ws
 ||nnm-club.ws/forum/docs/requests.js$script
-! bricozone.fr
 ! https://github.com/reek/anti-adblock-killer/issues/574
 bricozone.fr#@#.adsbygoogle
 ! howtogeek.com
@@ -3139,7 +3072,6 @@ articlerewritertool.com#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=articlerewritertool.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=articlerewritertool.com
 ! spinbot.com
-! https://github.com/reek/anti-adblock-killer/issues/589
 spinbot.com#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=spinbot.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=spinbot.com
@@ -3491,7 +3423,6 @@ skyrock.com##IMG[src*="adblock/megabanner.png"]
 ! https://github.com/reek/anti-adblock-killer/issues/799
 @@||cloudtime.to/banner.php$script
 ! videoweed.es
-! https://github.com/reek/anti-adblock-killer/issues/795
 @@||videoweed.es/banner.php$script
 ! showsport-tv.com
 ! https://github.com/reek/anti-adblock-killer/issues/802
@@ -3610,7 +3541,6 @@ anibatch.net##.su-box.su-box-style-default
 ! agarserv.com
 ! https://github.com/reek/anti-adblock-killer/issues/896
 agarserv.com#@##adsense
-! biggestplayer.me
 biggestplayer.me##.pipi
 ! missmedia.pl
 ! https://github.com/reek/anti-adblock-killer/issues/897
@@ -3709,7 +3639,6 @@ tobys.dk#@#.adsbygoogle
 ! https://github.com/reek/anti-adblock-killer/issues/963
 ||fanfiktion.de/pics/*.gif$domain=fanfiktion.de
 fanfiktion.de###ad-leaderboard-inner
-! iprima.cz
 ! https://github.com/reek/anti-adblock-killer/issues/966
 iprima.cz#@#.adsbox
 ! iptvforever.com
@@ -3742,7 +3671,6 @@ digitalcitizen.life##.TopAdBanner
 ! https://github.com/reek/anti-adblock-killer/issues/988
 @@||alluc.ee/js/ads.js$script
 alluc.ee###aovl
-! gaijin.at
 ! https://github.com/reek/anti-adblock-killer/issues/989
 @@||gaijin.at/ads/advertising.js$script
 ! linuxiarze.pl
@@ -3879,7 +3807,6 @@ mocospace.com#@#.ads1x1
 mocospace.com###dialog-adblocker
 mocospace.com##.jqmOverlay
 ! filikula.com
-! PM
 @@||filikula.com/wp-admin/admin-ajax.php$xmlhttprequest
 ! ruleporn.com
 ! https://github.com/reek/anti-adblock-killer/issues/1079
@@ -3950,7 +3877,6 @@ wurst-client.tk#@#.adsbygoogle
 @@||ads.ad-center.com/smart_ad/display?$subdocument,domain=wstream.video
 ! ria.ru
 ! https://github.com/reek/anti-adblock-killer/issues/1136
-ria.ru##.antiblock
 ! net.hr
 ! https://github.com/reek/anti-adblock-killer/issues/1150
 ! https://github.com/reek/anti-adblock-killer/issues/1139
@@ -4007,7 +3933,6 @@ pornhub.com,tube8.fr,tube8.es,tube8.com###abAlert
 ! https://github.com/reek/anti-adblock-killer/issues/841
 @@||di.se^$elemhide
 ! trackr.fr
-! PM
 @@||trackr.fr/sites/all/themes/contrib/touch/js/miroirs/adwordstracking.js$script
 ! nokiahacking.pl
 ! https://github.com/reek/anti-adblock-killer/issues/1162
@@ -4016,8 +3941,6 @@ pornhub.com,tube8.fr,tube8.es,tube8.com###abAlert
 ! jeja.pl
 ! https://github.com/reek/anti-adblock-killer/issues/1163
 jeja.pl#@##bottomAd
-! seguridadwireless.es
-! PM
 @@||googleads.g.doubleclick.net^$subdocument,domain=seguridadwireless.es
 ! semprot.com
 ! https://greasyfork.org/forum/discussion/7663
@@ -4090,7 +4013,6 @@ sports4u.tv,sports4u.live#@##adblock
 ! https://github.com/reek/anti-adblock-killer/issues/1196
 ! https://greasyfork.org/fr/forum/discussion/8713
 ||clubic.com/assets/js/6f34f4c.js$script
-! 6play.fr
 ! https://github.com/reek/anti-adblock-killer/issues/1204
 ||6play.fr/assets/js/vendors-3600848c1f.js$script
 ! bfmtv.com
@@ -4217,10 +4139,8 @@ dz-android.com#@##adsense
 ! https://greasyfork.org/en/forum/discussion/8937
 ||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
 ! aquabitcoin.com
-! PM
 @@||aquabitcoin.com/show_ads.js$script
 ! dailydoge.org
-! PM
 dailydoge.org#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dailydoge.org
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=dailydoge.org
@@ -4441,7 +4361,6 @@ scigacz.pl###adv_750
 ! https://github.com/reek/anti-adblock-killer/issues/1441
 filechoco.com#@#.adsbox
 ! boxfaucet.net
-! PM
 @@||boxfaucet.net/banner.gif$image
 ! ksl.com
 ! https://github.com/reek/anti-adblock-killer/issues/1450
@@ -4450,7 +4369,6 @@ filechoco.com#@#.adsbox
 ! https://github.com/reek/anti-adblock-killer/issues/1454
 ||online.wsj.com/javascript/abm.js$script
 ! politiken.dk
-! PM
 @@||politiken.dk/static/content/js/ads.js$script
 ! linkdecode.com
 ! https://github.com/reek/anti-adblock-killer/issues/1458
@@ -4473,11 +4391,9 @@ mathportal.org###noSenseCalculatorTop
 @@/ads/ads.js|$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
 ||*.cloudfront.net^$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
 ! bitcoin25.com
-! PM
 ||bitcoin25.com/libs/check.js$script
 ||bitcoin25.com/js/scroll1.js$script
 ! metal-bitcoin.com
-! PM
 ||metal-bitcoin.com/libs/check.js$script
 ||metal-bitcoin.com/js/scroll1.js$script
 ! azulyblanco.co
@@ -4498,7 +4414,6 @@ azulyblanco.co###vlay
 ! https://github.com/reek/anti-adblock-killer/issues/1489
 @@||adm.fwmrm.net/p/release/latest-JS/adm/prd/AdManager.js$script,domain=dmax.de
 ! animezone.pl
-! PM
 animezone.pl#@#.myTestAd
 ! cenapaliw.pl
 ! https://github.com/reek/anti-adblock-killer/issues/1500
@@ -4535,7 +4450,6 @@ cloud.jasaku.net##.adblock
 ! https://greasyfork.org/forum/discussion/9792
 @@||apk.tw/source/plugin/mydefplugin/advertise.js$script,~third-party
 ! 012.tw
-! https://greasyfork.org/forum/discussion/9792
 012.tw#@#.ad728
 ! bloomberg.com
 ! https://github.com/reek/anti-adblock-killer/issues/1520
@@ -4544,12 +4458,10 @@ bloomberg.com###adBlockerContainer
 ! https://greasyfork.org/forum/discussion/9826
 @@||1gr.cz/js/ad/reklama/banner.js$script,domain=idnes.cz
 ! limitsizamca.org
-! PM
 @@||limitsizamca.org/reklam.js$script,~third-party
 ! la-cosa.it
 ! https://github.com/reek/anti-adblock-killer/issues/1532
 la-cosa.it#@#div[id^="div-gpt-ad"]
-! oneplay.tv
 ! https://github.com/reek/anti-adblock-killer/issues/1534
 @@||oneplay.tv/assets/js/ads.js$script,~third-party
 ! b8b8.tv
@@ -4571,7 +4483,6 @@ bytzbiorowy.pl###stickymsg
 @@/js/adblock-advertisement.js$script,domain=imged.pl
 ! myanimelist.net
 ! https://github.com/reek/anti-adblock-killer/issues/1551
-myanimelist.net##._unit
 ! l2topzone.com
 ! https://github.com/reek/anti-adblock-killer/issues/1559
 @@||l2topzone.com/ads.png$image,~third-party
@@ -4649,7 +4560,6 @@ socketloop.com##.adtester-container
 @@||slacker.com^$xmlhttprequest
 @@||imasdk.googleapis.com^$script,domain=slacker.com
 @@||partner.googleadservices.com^$domain=slacker.com
-! dstar.pzk.pl
 ! https://github.com/reek/anti-adblock-killer/issues/1628
 dstar.pzk.pl#@#.adsbygoogle
 ! tsviewer.com
@@ -4692,7 +4602,6 @@ proplanta.de#@#.searchad
 ! https://github.com/reek/anti-adblock-killer/issues?q=investing.com
 @@||investing.com/js/ads.js$script
 @@||static.doubleclick.net/instream/ad_status.js$domain=investing.com
-! crunchyroll.com
 ! https://github.com/reek/anti-adblock-killer/issues/1640
 @||crunchyroll.com/*/ads_enabled_flag*.js$script
 ! indiatimes.com
@@ -4785,7 +4694,6 @@ gogi.in#@#.text-ad
 gogi.in#@#.text_ads
 gogi.in#@#.text-ad-link
 ! hayhaytv.vn
-! hayhaytv.vn
 hayhaytv.vn#@#.ads_wrapper
 ! comprovendolibri.it
 ! https://github.com/reek/anti-adblock-killer/issues?q=comprovendolibri.it
@@ -4814,16 +4722,6 @@ reuters.com##.RTVSyndicatedPlayer
 ojogo.pt###AdBloquer
 ! filterbypass.me
 filterbypass.me##.adhome-728
-! fox.com.tr
-fox.com.tr#@#.pub_300x250
-fox.com.tr#@#.pub_300x250m
-fox.com.tr#@#.pub_728x90
-fox.com.tr#@#.text-ad
-fox.com.tr#@#.textAd
-fox.com.tr#@#.text_ad
-fox.com.tr#@#.text_ads
-fox.com.tr#@#.text-ads
-fox.com.tr#@#.text-ad-links
 ! fox.com.tr
 fox.com.tr#@#.pub_300x250
 fox.com.tr#@#.pub_300x250m
@@ -4868,7 +4766,6 @@ lfg.co,leasticoulddo.com#@#.act-ad-container
 ! fullstuff.co
 ! https://github.com/reek/anti-adblock-killer/issues?q=fullstuff.co
 @@||fullstuff.co^$generichide
-! apk.tw
 ! https://github.com/reek/anti-adblock-killer/issues?q=apk.tw
 @@||apk.tw^$generichide
 ! ridediriddim.com
@@ -4898,7 +4795,6 @@ qbasic.net#@#.adsbygoogle
 ! uploadrocket.net
 ! https://github.com/reek/anti-adblock-killer/issues?q=uploadrocket.net
 @@||uploadrocket.net/advertising/ads.js$script
-! trakt.tv
 ! https://github.com/reek/anti-adblock-killer/issues?q=trakt.tv
 trakt.tv##.huckster-dfp
 ! naasongs.com / nsongs.com
@@ -4906,7 +4802,6 @@ trakt.tv##.huckster-dfp
 @@||nsongs.com^$generichide
 @@||naasongs.com^$generichide
 @@|http://*adv$image,domain=naasongs.com|nsongs.com
-! politiken.dk
 ! https://github.com/reek/anti-adblock-killer/issues?q=politiken.dk
 @@||politiken.dk/*ad$script
 ! ing.dk
@@ -4982,7 +4877,6 @@ gelbooru.com##.noticeError
 ! https://github.com/reek/anti-adblock-killer/issues?q=yafud.pl
 @@||yafud.pl^$generichide
 yafud.pl###adsense_banner_top
-! siamfishing.com
 ! https://github.com/reek/anti-adblock-killer/issues?q=siamfishing.com
 @@||siamfishing.com/_js/adsbygoogle.js$script
 ! videacesky.cz
@@ -5001,7 +4895,6 @@ yafud.pl###adsense_banner_top
 ! prem.link
 ! https://github.com/reek/anti-adblock-killer/issues?q=prem.link
 @@||liveadexchanger.com/a/display.php$script,domain=prem.link
-! wolfram-client.tk
 ! wolfram-client.tk
 @@||go.wolfram-client.tk^$generichide
 ! ----- Hide/Block ------------------------------------------------------------------------------------------------------------------- !
@@ -5202,7 +5095,6 @@ junksport.com##DIV[style="background-color: rgb(251, 236, 173); position: absolu
 /js/ouo/entry.js$script,third-party
 /js/ouo/entry_v1.js$script,third-party
 ||cdn.ouo.io/js/full-page-script.js$script,third-party
-! binbox.io
 ||binbox.io/autolink.js$script,third-party
 ! esprit-click.com
 ||esprit-click.com/display.php$subdocument,third-party
@@ -5287,7 +5179,6 @@ referencemega.com###hebdotop_t
 ||siteunder.unclejeans.com^$popup,domain=referencemega.com
 ! keepfiles.fr
 keepfiles.fr###shadow
-! turkdown.com
 turkdown.com###duyuru
 ! dada44230.fr
 ||nefroto.net^$script,domain=dada44230.fr
@@ -5299,7 +5190,6 @@ generatorlinkpremium.com##.thirdsky
 generatorlinkpremium.com##.secondsky
 ! game-state.com
 @@||static.game-state.com/js/adblock.js$script
-! gamejolt.com
 gamejolt.com###ima-ad-container
 ! fakirdebrid.net
 ||upresim.tk/berat/js/entry$script,domain=fakirdebrid.net
@@ -5344,7 +5234,6 @@ serverhd.eu###countDown
 ! footstream.tv
 ||foot.footstream.tv/js/compteur1.js$script
 ||business-agence.eu^$domain=footstream.tv
-! hdcastream.com
 hdcastream.com###total
 hdcastream.com##.container
 ! ilive.to
@@ -5365,7 +5254,6 @@ ana1.me##.videopos
 zuuk.org###fl10
 ! embeducaster.com
 embeducaster.com###impo_overlay
-! tvdez.com
 cdn.tvdez.com##IFRAME[src^="http://ad.directrev.com/RealMedia/ads/"]
 cdn.tvdez.com###cerrar
 ! tugastream.com
@@ -5420,7 +5308,6 @@ sport-show.fr##DIV[style="padding-top:0px;float:left;width:100%;font-size:13px;l
 ! majax31sport
 foot.tous-sports.tv##IMG[src="http://foot.tous-sports.tv/images/blanccloses.png"]
 strmh24.com###b1
-! tiv.pw
 cdn.tiv.pw##.drt
 cdn.tiv.pw##.floater
 ! sharecast.to
@@ -5454,9 +5341,7 @@ tvfree2.me###adn1
 ||tvfree2.me/ads_*.js$script
 ! aovivoagora.com
 aovivoagora.com##div[id^="anuncio"]
-! biggestplayer.me
 biggestplayer.me##.cuadrado.rmv
-! streaming-foot.info
 ! stream-foot.tv
 ! foot-live.info
 ! total-sport.tv
@@ -5562,7 +5447,6 @@ ddl-search.biz##.wpbanner_superlenny
 ||kovla.com/?$popup,domain=rapidgator.net
 ! antipubfirefox.org
 splash.antipubfirefox.org##DIV[align="center"]
-! ojogo.pt
 ojogo.pt###moldura_ojogo
 ! banners-service.info
 ! europacash.com
@@ -5571,7 +5455,6 @@ ojogo.pt###moldura_ojogo
 ||media.rencontreshard.com^$third-party,script
 ! cpatrendreklam.com
 ||cpatrendreklam.com^$third-party,script
-! go4up.com
 go4up.com##[href^="http://liversely.com/g4u?q="]
 go4up.com##[href^="http://go.ad2up.com/afu.php?id="]
 ! academia.edu

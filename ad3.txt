@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wxCaadwPwZOs5DxtRkHKmw
+! Checksum: 2+hE00tFjQAh4GSkhqVI3A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202103071228
-! Last Modified: 2021年03月07日 12:28
+! Version: 202103071626
+! Last Modified: 2021年03月07日 16:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -6008,7 +6008,6 @@ _yad_jsonp_
 ||dd3200.com/js/favshare.js
 ||dd6364.com/js/777/
 ||ddshu.net/a_d_code/
-||de.as.pptv.com^
 ||dealmoon.com/hotdeals/hotdeals_scroller.php
 ||dealmoon.com/upload/dealmoon_app.jpg
 ||debugease.com/static/js/show.js
@@ -6509,7 +6508,6 @@ _yad_jsonp_
 ||gtimg.com/newsapp_bt/0/1846661534/641
 ||gtimg.com/newsapp_ls/0/27161189/0
 ||gtimg.com/pingjs/ext2020/dc/module/GJ/
-||gtimg.com/qqlive/
 ||gtimg.com/rain/bl20/json/8.js
 ||gtimg.com/sports/*.swf
 ||gtimg.com/sports/000/
@@ -19686,7 +19684,6 @@ fqsousou.com,kengso.com#@#.user-share
 /pop_ads.
 ?ad_type=
 /static/ad-
-/new/ads/*
 /getad.$domain=~getad.pl
 ##.area_ad
 .net/adv/
@@ -19905,7 +19902,6 @@ msn.com##.ad
 .net/ad-
 .net/ad/$~object-subrequest
 .net/ads/
-.net/adv/
 .org/ad/
 .org/ads/
 .php?zoneid=
@@ -19940,7 +19936,6 @@ msn.com##.ad
 /160_600_
 /300_250_
 /300x250-
-/300x250.
 /300x250_
 /468_60.
 /728-90.
@@ -20198,7 +20193,6 @@ _box_ad_
 /yksmartbanner.
 /z.zolapp.
 =Ad_ZPlusGoods&
-!------------------------General element hiding rules-------------------------!
 ###doyoo_mon_mask
 ###doyoo_monitor
 ##.siteAnn1
@@ -20511,7 +20505,6 @@ _box_ad_
 ||zhangzishi.cc/cdn-cgi/apps/
 ||macx.cn/js/blockadblock.js
 ||bestqikan.com/static/js/swt.js
-||book118.com/Public/book118/js/side-customer/customer.js
 ||51cto.com/js/activity_pop.js
 ||kuakao.com/index.php?m=content&c=index&a=show_ad
 ||qinxue100.com/qinxue/pc/js/add_js.js
@@ -20533,7 +20526,6 @@ _box_ad_
 ||chinalawedu.com/js/weixin/weixin.js
 ||chinalawedu.com/js/zxkf.js
 ||baidu.com/xpage/form/getform?id=wk_pc_skin
-||aixifan.com/static/*/appGuide/
 ||icourse163.org/dwr/call/plaincall/CommonBean.obtain.dwr
 ||3158.cn/min/webim.
 ||3158.cn/static/js/fixbtm/
@@ -20601,7 +20593,6 @@ _box_ad_
 ||tiexue.net/pic/tx_1220.jpg
 ||gushiwen.org/getTicket.aspx
 ||51cto.com/edu/center/js/interaction_iframe.js
-!------------------------Specific element hiding rules------------------------!
 to8to.com##.layer-red-box
 tvbs.com.tw##.smart_banner
 wenku.baidu.com##.header-wrapper > .fixed-activity-bar
@@ -20941,7 +20932,6 @@ liepin.com##DIV[id^="nodetpl_g_"]
 med66.com##.coach_pic
 kekenet.com###bottomlink
 download.csdn.net##.quake-slider
-china.cn##.ltp_box
 qidian.com##div[style="background: rgba(0,0,0,0.4);position: fixed;left:0;right:0;top:0;bottom:0;z-index:9999;"]
 qidian.com##div[style^="width: 426px; height: 644px; background:"]
 qidian.com##span[style^="display: inline-block;width: 150px; height: 291px;"]
@@ -21149,7 +21139,6 @@ cskaoyan.com###scanWxQrCode
 wasu.cn###scan_qrcode
 po.baidu.com###shareBoxBlank
 xcar.com.cn###show_car
-hao.360.com###sidebar
 hao123.com###slidetoolbarContainer
 suning.com###sn-sidebar-change-code
 haosou.com###so_feb
@@ -21523,8 +21512,6 @@ ithome.com##div[style^="width:960px;height:60px;"]
 iqiyi.com##div[style^="z-index: 4200; position: absolute; left:"]
 iqiyi.com##iframe[style^="z-index:"]:last-child
 m.babytree.com##script + a[class]
-!---------------------------------CSS Whitelist-------------------------------!
-!---------------------------------URL Whitelist-------------------------------!
 @@||th7.cn/sanda2015/css/ads.js
 @@||lancdn.com/landian/public/js/ads.js
 @@||qbox.me/static/js/ads.js$domain=linux.cn
@@ -22233,7 +22220,6 @@ weibo.com##.apps_PCD_reco_detail_right
 /__sttm.gif?
 /__tm3k.gif?
 /__ub.gif?
-/__utm.gif
 /__utm.js
 /__varnish_geoip
 /__wsm.gif
@@ -22337,7 +22323,6 @@ weibo.com##.apps_PCD_reco_detail_right
 /adframestats|
 /adimp?
 /adimppixel/*
-/adinfo?
 /adinteraction/*
 /adlog.
 /adlogger.
@@ -23213,7 +23198,6 @@ weibo.com##.apps_PCD_reco_detail_right
 /cmarketing.countus.js
 /cmd_track?
 /cmp-event-ioltrack.
-/cms-gg.js
 /cms.gif?
 /cms/stats/*
 /cmslog.dll?
@@ -24557,7 +24541,6 @@ weibo.com##.apps_PCD_reco_detail_right
 /log.bi?
 /log.cfm?
 /log.collect.
-/log.gif?
 /log.htm?
 /log.jphp?
 /log.jsp?
@@ -28178,7 +28161,6 @@ _mongo_stats/
 ||cmptch.com^$third-party
 ||cnt1.net^$third-party
 ||cnxweb.com^$third-party
-||cnzz.com^$third-party
 ||cobaltgroup.com^$third-party
 ||codata.ru^$third-party
 ||coefficy.com^$third-party
@@ -28658,7 +28640,6 @@ _mongo_stats/
 ||goldstats.com^$third-party
 ||goneviral.com^$third-party
 ||goodcounter.org^$third-party
-||google-analytics.com/analytics.js
 ||google-analytics.com/analytics_debug.js
 ||google-analytics.com/batch^
 ||google-analytics.com/collect
@@ -28946,7 +28927,6 @@ _mongo_stats/
 ||kissmetrics.com^$third-party
 ||kitbit.net^$third-party
 ||kitcode.net^$third-party
-||kiwihk.net^$third-party
 ||klert.com^$third-party
 ||klldabck.com^$third-party
 ||km-sea.net^$third-party
@@ -29080,7 +29060,6 @@ _mongo_stats/
 ||maropost.com^$third-party
 ||masterstats.com^$third-party
 ||matheranalytics.com^$third-party
-||mathtag.com^$third-party
 ||matomo.cloud^$third-party
 ||matterlytics.com^$third-party
 ||maxtracker.net^$third-party
@@ -30304,7 +30283,6 @@ _mongo_stats/
 ||wp-stats.com^$third-party
 ||wpdstat.com^$third-party
 ||wpfc.ml^$third-party
-||wrating.com^$third-party
 ||wt-eu02.net^$third-party
 ||wt-safetag.com^$third-party
 ||wtp101.com^$third-party
@@ -30367,7 +30345,6 @@ _mongo_stats/
 ||zoomanalytics.co^$third-party
 ||zoomflow.com^$third-party
 ||zoomino.com^$third-party
-||zoosnet.net^$third-party
 ||zoossoft.net^$third-party
 ||zqtk.net^$third-party
 ||zroitracker.com^$third-party
@@ -31458,10 +31435,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trafit.com^$third-party
 ||tyxo.bg^$third-party
 ||180.76.2.18^$third-party,domain=~baidu.ip
-||50bang.org^$third-party
 ||51yes.com^$third-party
 ||99click.com^$third-party
-||acs86.com^$third-party
 ||ad7.com^$third-party
 ||adop.cc^$third-party
 ||adskom.com^$third-party
@@ -31475,14 +31450,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdnmaster.cn^$third-party
 ||clicki.cn^$third-party
 ||cnzz.net^$third-party
-||cr-nielsen.com^$third-party
 ||ctags.cn^$third-party
 ||datamaster.com.cn^$third-party
 ||elevenmedia.cn^$third-party
-||emarbox.com^$third-party
 ||eyeota.net^$third-party
 ||fraudmetrix.cn^$third-party
-||ggxt.net^$third-party
 ||gm99.com^$third-party
 ||gostats.cn^$third-party
 ||gridsum.com^$third-party
@@ -31493,13 +31465,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hotrank.com.tw^$third-party
 ||hubpd.com^$third-party
 ||i-mobile.co.jp^$third-party
-||ipinyou.com^$third-party
 ||irs09.com^$third-party
 ||jiankongbao.com^$third-party
 ||lndata.com^$third-party
 ||logly.co.jp^$third-party
 ||mediav.com^$third-party
-||miaozhen.com^$third-party
 ||mmstat.com^$third-party
 ||oadz.com^$third-party
 ||p0y.cn^$third-party
@@ -31517,20 +31487,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sjv.io^$third-party
 ||tagmanager.cn^$third-party
 ||tanx.com^$third-party
-||tenmax.io^$third-party
 ||tomonline-inc.com^$third-party
 ||top-bloggers.com^$third-party
 ||topsem.com^$third-party
 ||tovery.net^$third-party
 ||twcouponcenter.com^$third-party
-||vamaker.com^$third-party
 ||vdoing.com^$third-party
 ||vm5apis.com^$third-party
 ||webdissector.com^$third-party
-||xtgreat.com^$third-party
-||yigao.com^$third-party
-||youle55.com^$third-party
-||zampda.net^$third-party
 ||ztcadx.com^$third-party
 ||dotmetrics.net^$third-party
 ||xclaimwords.net^$third-party
@@ -32266,7 +32230,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.yesware.com/t/$third-party
 ||appdynamics.com/geo/$third-party
 ||appinthestore.com/click/
-||apple.www.letv.com^
 ||appliedsemantics.com/images/x.gif
 ||appmifile.com^*/stat/
 ||appsolutions.com/hitme?$third-party
@@ -33042,7 +33005,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hits-*.iubenda.com^
 ||hits.dealer.com^
 ||hits.informer.com^
-||hm.baidu.com^$third-party
 ||hocalwire.com/tracking-
 ||homestore.com/srv/
 ||hop.clickbank.net^
@@ -33434,7 +33396,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ooyala.com/verify?
 ||ooyala.com^*/report?log
 ||open.delivery.net^
-||openxcdn.net^$third-party
 ||optimizely.appspot.com^$third-party
 ||ora.tv/j/ora_evttracking.js
 ||orb.ee/collect
@@ -33650,7 +33611,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rokt.com/pixel/
 ||routeapp.io/route-analytics/
 ||royalecms.com/statistics.php?
-||rs.sinajs.cn^
 ||rss.tmgrup.com.tr^
 ||rt.flix360.com^
 ||rtg-endpoint.global.ssl.fastly.net^
@@ -33719,7 +33679,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shoprunner.com^*/record?
 ||sig.atdmt.com^
 ||sightmaxondemand.com/wreal/sightmaxagentinterface/monitor.smjs
-||sinajs.cn/open/analytics/
 ||sitebooster.com/sb/wix/p?$third-party
 ||sitefinity.com/collect/
 ||skimresources.com/api/ref-banners.js
@@ -33976,7 +33935,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.strife.com^
 ||track.tcppu.com^
 ||track.td3x.com^
-||track.uc.cn^
 ||track.untd.com^
 ||track.vdo.ai^
 ||track.vscash.com^
@@ -34653,7 +34611,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alimama.cn/inf.js
 ||alipay.com/common/um/lsa.swf
 ||analytics.meituan.net^
-||atanx.alicdn.com^
 ||baidu.com/cpro/ui/c.js
 ||baidu.com/cpro/ui/f.js
 ||baidu.com/h.js?
@@ -34661,7 +34618,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||baidu.com/js/m.js
 ||baidu.com/js/o.js
 ||baidu.com/x.js?
-||beacon.sina.com.cn^
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
 ||bzclk.baidu.com^
@@ -34676,15 +34632,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||counter.pixplug.in^
 ||cpro.baidustatic.com^$script,domain=sohu.com
 ||cri.cn/js/a1.js
-||csbew.com^$third-party
 ||csdn.net^*/counter.js
 ||d17m68fovwmgxj.cloudfront.net^
 ||da.netease.com^
-||dup.baidustatic.com^
 ||epro.sogou.com^
 ||etwun.com:8080/counter.php?
 ||fourier.taobao.com^
-||g.yccdn.com^
 ||haostat.qihoo.com^
 ||hudong.com/flux.js
 ||hyrankhit.meldingcloud.com^
@@ -34693,7 +34646,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||imp.ad-plus.cn^
 ||imp.go.sohu.com^
 ||imp.optaim.com^
-||itc.cn/pv/
 ||ixigua.com/at/log/
 ||js.letvcdn.com/js/*/stats/
 ||js.static.m1905.cn/pingd.js
@@ -34701,12 +34653,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.tagtic.cn^
 ||m.lolvsdota.cn^
 ||mlt01.com/cmp.htm$third-party
-||msg.71.am^
 ||n.yunshipei.com^
 ||netease.com/beacons/
 ||p.aty.sohu.com^
 ||p.tencentmind.com^
-||pos.baidu.com^
 ||pstatp.com^*/raven.js
 ||pstatp.com^*/ttstatistics.
 ||pv.hd.sohu.com^
@@ -35664,7 +35614,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cyberlink.com/analytics/
 ||d.ghostery.com^
 ||d.skk.moe^
-||d2p3zdq8vjvnxd.cloudfront.net^
 ||d3f5l8ze0o4j2m.cloudfront.net^$script,domain=trademe.co.nz
 ||da.virginmedia.com^
 ||dabs.com/AbacusTest/clientinfo_bk.gif
@@ -35827,7 +35776,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.redditmedia.com^
 ||events.turbosquid.com^
 ||everythinggirl.com/assets/tracker/
-||evgnet.com/beacon/
 ||evisit.exeter.ac.uk^
 ||eweek.com/hqxapi/
 ||ex.ua/counter/
@@ -37297,7 +37245,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telegraph.co.uk^*/tmglmultitrackselector.js
 ||telemetry.art19.com^
 ||telemetry.tradingview.com^
-||telerium.net/geo.php
 ||tellerreport.com/react/pixel
 ||tempo.inc.com^
 ||tesco.com/cgi-bin3/buyrate?type=
@@ -37381,7 +37328,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.dictionary.com^
 ||track.engagesciences.com^
 ||track.fxstreet.com^
-||track.hubspot.com^
 ||track.lexico.com^
 ||track.netzero.net^
 ||track.ning.com^
@@ -38087,7 +38033,6 @@ $xmlhttprequest,domain=auroravid.to|catrumahminimalis.me|dekoder.ws|estream.to|f
 ||browsealoud.com/plus/scripts/$script
 ||cdn1.pebx.pl^
 ||cinemafacil.com/js.php
-||de-mi-nis-ner2.info^
 ||estream.to/bootstrap.min.js$script
 ||estream.to/player.js
 ||flashx.*/bootstrap.min.js
@@ -38225,7 +38170,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||ana.tv5unis.ca^
 ||arrietty.nrj.fr^
 ||at-cddc.actu-juridique.fr^
-||atconnect.npo.nl^
 ||ati-a1.946d001b783803c1.xhst.bbci.co.uk^
 ||atxqb.psychologies.com^
 ||buf.lemonde.fr^
@@ -38345,7 +38289,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||metrics.cbc.ca^
 ||metrics.centex.com^
 ||metrics.chron.com^
-||metrics.cnn.com^
 ||metrics.compactappliance.com^
 ||metrics.cosmopolitan.co.uk^
 ||metrics.crystalcruises.com^
@@ -38409,7 +38352,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||metrics.teambeachbody.com^
 ||metrics.tgw.com^
 ||metrics.tlc.com^
-||metrics.toptenreviews.com^
 ||metrics.toysrus.com^
 ||metrics.tulsaworld.com^
 ||metrics.turner.com^
@@ -38417,7 +38359,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||metrics.us.levi.com^
 ||metrics.us.playstation.com^
 ||metrics.vividseats.com^
-||metrics.washingtonpost.com^
 ||metrics.wm.com^
 ||metrics.ybs.co.uk^
 ||metricssecure.northwesternmutual.com^
@@ -38665,7 +38606,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||vs.blackplanet.com^
 ||wa.and.co.uk^
 ||wa.epson.com^
-||wa.metro.co.uk^
 ||webstats.volvo.com^
 ||www15.jtv.com^
 ||www2.autopartswarehouse.com^
@@ -38864,7 +38804,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||infos.belong.com.au^
 ||infos.telstra.com.au^
 ||infos.vodafone.com.au^
-||m.trb.com^
 ||maling.dn.no^
 ||matrix.hbo.com^
 ||mdws.accesscu.ca^
@@ -38929,7 +38868,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||metrics.carfax.com^
 ||metrics.carphonewarehouse.com^
 ||metrics.cars.com^
-||metrics.cbn.com^
 ||metrics.centurylink.com^
 ||metrics.chapters.indigo.ca^
 ||metrics.consumerreports.org^
@@ -38951,8 +38889,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||metrics.digitaleditions.com.au^
 ||metrics.dominos.com^
 ||metrics.duluthtrading.com^
-||metrics.ee.co.uk^
-||metrics.el-mundo.net^
 ||metrics.elkjop.no^
 ||metrics.elsevier.com^
 ||metrics.escape.com.au^
@@ -39132,7 +39068,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||oimg.nbcuni.com^
 ||oimg.universalorlandovacations.com^
 ||om-ssl.consorsbank.de^
-||om.cbsi.com^
 ||om.churchofjesuschrist.org^
 ||om.craftsman.com^
 ||om.dowjoneson.com^
@@ -39141,7 +39076,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||om.hotels.com^
 ||om.lds.org^
 ||om.neimanmarcus.com^
-||om.rogersmedia.com^
 ||om.sears.com^
 ||om.symantec.com^
 ||ometrics.netapp.com^
@@ -39151,7 +39085,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||omni.bluecrossma.com^
 ||omni.cash.ch^
 ||omni.csc.com^
-||omni.nine.com.au^
 ||omni.sky.de^
 ||omni.sportingnews.com^
 ||omni.suntrust.com^
@@ -39166,7 +39099,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||omniture.groceries.asda.com^
 ||omniture.kennametal.com^
 ||omniture.lg.com^
-||omniture.stuff.co.nz^
 ||omniture.walmart.ca^
 ||omniture.walmart.com^
 ||omnivis.overstock.com^
@@ -39185,7 +39117,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||oms.citytv.com^
 ||oms.dowjones.com^
 ||oms.dowjoneson.com^
-||oms.expedia.com^
 ||oms.factiva.com^
 ||oms.fido.ca^
 ||oms.flare.com^
@@ -39961,13 +39892,11 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||sstats.juttu.be^
 ||sstats.kroger.com^
 ||sstats.mora-qualitas.com^
-||sstats.mora.jp^
 ||sstats.motosport.com^
 ||sstats.mt.com^
 ||sstats.newyorker.com^
 ||sstats.o2tv.cz^
 ||sstats.o2vyhody.cz^
-||sstats.oui.sncf^
 ||sstats.oyster.com^
 ||sstats.pitchfork.com^
 ||sstats.raffles.com^
@@ -40028,7 +39957,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||stats.bildconnect.de^
 ||stats.bitdefender.com^
 ||stats.canadapost.ca^
-||stats.dice.com^
 ||stats.discotel.de^
 ||stats.drugstore.com^
 ||stats.epicurious.com^
@@ -40038,7 +39966,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||stats.libresse.no^
 ||stats.maxxim.de^
 ||stats.mt.com^
-||stats.oui.sncf^
 ||stats.premiumsim.de^
 ||stats.radio-canada.ca^
 ||stats.rcinet.ca^
@@ -40180,7 +40107,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||ts.popsugar.com^
 ||tsa.taxslayer.com^
 ||turnerresearch1.hb-api.omtrdc.net^
-||visit.asb.co.nz^
 ||w88.abc.com^
 ||w88.espn.com^
 ||w88.fxnetworks.com^
@@ -40853,7 +40779,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||7mx.eider.com^
 ||913nd.dieti-natura.es^
 ||a8ht.hipp.fr^
-||ac.acadomia.fr^
 ||anz7.allianz-voyage.fr^
 ||ar.i-run.fr^
 ||at.pagesjaunes.fr^
@@ -41052,7 +40977,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||uue2.destinia.ir^
 ||uwy4.aegon.es^
 ||uzd1.madeindesign.com^
-||v.oui.sncf^
 ||vbe.voyage-prive.be^
 ||vch.voyage-prive.ch^
 ||vde1.voyage-prive.de^
@@ -41730,7 +41654,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 /autopromo.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromotion.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 ||2ememain.be/metrics/
-||a.20minutes.fr^
 ||act.acotedemoi.com^
 ||aliasdmc.fr/js/general_sts.js
 ||analytics.allovoisins.com^
@@ -41798,7 +41721,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||rtl.be^*/trkfblk.js
 ||rtl.fr/stats/
 ||sa.tf1.fr^
-||secure-stat.canal-plus.com^
 ||sfr.fr/js/pent-stats.jsp
 ||sgmnt.ticketswap.com^
 ||shemsfm.net^*/setStats/
@@ -41850,9 +41772,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||adgeo.163.com^
 ||al.autohome.com.cn^
 ||analy.qq.com^
-||analyse.weather.com.cn^
 ||analytics.163.com^
-||analytics.oneplus.cn^
 ||analytics.shop.hisense.com^
 ||analytics.zhihu.com^
 ||anti-bot.baidu.com^
@@ -41869,9 +41789,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||baidu.com^*/adlog?
 ||baidu.com^*/c.gif?
 ||baidu.com^*/s.gif?
-||baidu.com^*/w.gif?
 ||baofeng.com/script/baidu_
-||bc.qunar.com^
 ||bdwblog.eastmoney.com^
 ||bglog.bitauto.com^
 ||bilanx.dcard.tw^*/events
@@ -41904,7 +41822,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||duowan.com/duowan.js
 ||duowan.com/public/s/market_count.js
 ||dwtracking.sdo.com^
-||eastmoney.com/analysis/
 ||eastmoney.com/counter.js?
 ||ebook.tianya.cn/js/stat.js
 ||eclick.baidu.com^
@@ -41917,7 +41834,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||his.tv.sohu.com/his/ping.do?
 ||hisense.com/ta.js
 ||ifeng.com/i?p=
-||imgstat.baidu.com^
 ||jcm.jd.com^$script,third-party
 ||jiayuan.com^*/pv.js
 ||js.kuwo.cn/stat/
@@ -41961,7 +41877,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||pingjs.qq.com^
 ||pptv.com/stg/add?
 ||pptv.com/webdelivery/
-||pv.ltn.com.tw^
 ||pv.udn.com^
 ||pv.xcar.com.cn^
 ||pvx.xcar.com.cn^
@@ -41977,7 +41892,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||report.qq.com^
 ||retcode.taobao.com^
 ||rgd.com.cn/counter/
-||s.360.cn^
 ||s.pixfs.net/js/pixlogger.min.js
 ||s.pixfs.net/visitor.pixplug.in/
 ||s.qhupdate.com^
@@ -42000,8 +41914,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||sohu.com/wrating
 ||soufun.com/click/
 ||soufun.com/stats/
-||ssp.hinet.net^
-||stadig.ifeng.com^
 ||stat.*.v-56.com^
 ||stat.1688.com^
 ||stat.caijing.com.cn^
@@ -42018,7 +41930,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||stats.autohome.com.cn^
 ||stats.yinyuetai.com^
 ||tbskip.taobao.com^$script
-||tf.360.cn^
 ||tianxun.com/ajax_website_statistics.
 ||titan24.com/scripts/stats.js
 ||tmall.com/add?
@@ -42214,7 +42125,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||log.suumo.jp^
 ||logql.yahoo.co.jp^
 ||measure.ameblo.jp^
-||mtc.nhk.or.jp^
 ||nhk.or.jp^*/bc.js
 ||nikkei.com/.resources/tracking/
 ||ppf.rakuten.co.jp^$~script
