@@ -84,7 +84,7 @@ jobs:
           cat antiadblockfilters.txt abp-filters-anti-cv.txt anti-adblock-killer-filters.txt > ../new/ad-edentw.txt
           for i in $(ls ../new/*.txt); do
             sed -i '/^$/d' $i
-            awk '!x[$0]++' $i > $i
+            awk '!x[$0]++' $i > tmp && mv tmp $i
           done
 
       - name: Diff and addChecksum
