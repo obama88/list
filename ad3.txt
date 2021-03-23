@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rLQWgMZanJIB6tGqGjA5CQ
+! Checksum: V/B0wT/ItcT5+AHQo4gbzg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202103230425
-! Last Modified: 2021年03月23日 04:25
+! Version: 202103231228
+! Last Modified: 2021年03月23日 12:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23440,7 +23440,9 @@ weibo.com##.apps_PCD_reco_detail_right
 /js/tracking/*
 /js/tracking_
 /js/trk_
+/js_gpt.
 /js_hotlink.php?
+/js_ibeat_ext.
 /js_log_error.
 /js_logger.
 /js_tracker.
@@ -23580,6 +23582,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /log/jserr.php
 /log/log-event-
 /log/log.php?
+/log/logs?
 /log/p.gif?
 /log/pageview
 /log/report/*
@@ -33748,6 +33751,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||videostat-new.index.hu^
 ||videostat.index.hu^
 ||analytics.bhaskar.com^
+||indiatimes.com/pixel?
 ||mediaquark.com/tracker.js
 ||alice.it/cnt/
 ||analytics.competitoor.com^
@@ -33889,8 +33893,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.cribnotes.jp^
 ||torimochi.line-apps.com^
 ||tr.reco.combz.jp^
+||track.span-smt.jp^
 ||track.thebase.in^
 ||tracker.520call.me^
+||trk.fensi.plus^
 ||userdive.com^$third-party
 ||webbc.fivecdm.com^
 ||webtracker.jp^$third-party
@@ -34540,7 +34546,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clvk.viki.io^
 ||clyp.it^*/log^
 ||cmap.alibaba.com^
-||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
 ||cnn.com/analytics/
 ||cnt.iceporn.com^
@@ -35103,11 +35108,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||i.pokernews.com^
 ||i365.com^*/pv.aspx?
 ||iafrica.com/php-bin/iac/readcnt.php?
-||ibeat.indiatimes.com^
 ||iberia.com^*/ga/ga.js
 ||ibm.com/common/stats/
 ||ibm.com/gateway/?
-||ibs.indiatimes.com^
 ||ibt.com/front/js/counter.js
 ||icq.com/search/js/stats.js
 ||id.google.*/verify/*.gif
@@ -35140,9 +35143,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||imx.comedycentral.com^
 ||indeed.com/rpc/$~xmlhttprequest
 ||independentmail.com/metrics/
-||indiatimes.com/stats?
-||indiatimes.com/trackjs10.
-||indiatimes.com^*/notify.htm
+||indiatimes.com/personalisation/logdata/
 ||info.com/pingback
 ||infogr.am/js/metrics.js
 ||infomine.com/imcounter.js
@@ -36277,11 +36278,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tidaltv.com/Ping.aspx
 ||tiktok.com/api/impression/
 ||tiktok.com/captcha/report
+||tilanalytics.timesinternet.in^
 ||time.is/img/nod.png$image
 ||timeslogtn.timesnow.tv^
 ||timesofisrael.com/js/rgb_app.js
 ||timesrecordnews.com/metrics/
-||timestrends.indiatimes.com^
 ||timestrends.timesnow.tv^
 ||tinypic.com/track.php?
 ||tinyupload.com^*/ct_adkontekst.js
@@ -41926,6 +41927,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||count.upc.rakuten.co.jp^
 ||dmm.com/analytics/
 ||dmm.com/imp?
+||fensi.plus^*/tracking/
 ||gizmodo.jp/api/SurveyCountCollection?
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
