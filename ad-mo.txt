@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fF4+X2CVp50nkDIvWlRKbA
+! Checksum: GPNwwwO4bNS71EUHiJdhsQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202103251241
-! Last Modified: 2021年03月25日 12:41
+! Version: 202103251631
+! Last Modified: 2021年03月25日 16:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -60897,7 +60897,6 @@ ubmcmm.baidustatic.com
 ||szfaq.com^
 ||szggdw.com^
 ||szjianxin.net^
-||szpgzn.com^
 ||szpl0.com^
 ||szrk3.com^
 ||sztbjs.com^
@@ -75479,6 +75478,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||szhgmd.com^
 ||szmxwjm.com^
 ||szpengliye.com^
+||szpgzn.com^
 ||szqifu.com^
 ||szqipin.cn^
 ||szshouzhai.com^
