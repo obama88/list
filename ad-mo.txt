@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oLMNZvbXn4PFxbycOYA0PQ
+! Checksum: HV4hvQ4wwRGjsIMlTB2QWg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202103270045
-! Last Modified: 2021年03月27日 00:45
+! Version: 202103270427
+! Last Modified: 2021年03月27日 04:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -23077,6 +23077,8 @@ _popunder+$popup
 ##.advertising_hibu_mid
 ##.advertising_hibu_rig
 ##.advertising_images
+##.advertising_square
+##.advertising_top
 ##.advertising_widget
 ##.advertisingarea
 ##.advertisingarea-homepage
@@ -23534,10 +23536,13 @@ _popunder+$popup
 ##.banner-ad-block
 ##.banner-ad-container
 ##.banner-ad-footer
+##.banner-ad-image
+##.banner-ad-inner
 ##.banner-ad-label
 ##.banner-ad-large
 ##.banner-ad-row
 ##.banner-ad-space
+##.banner-ad-wrap
 ##.banner-ad-wrapper
 ##.banner-ads
 ##.banner-ads-300x250
@@ -30221,6 +30226,7 @@ _popunder+$popup
 ##.widget_sponsored_content
 ##.widget_supernews_ad
 ##.widget_text_adsense
+##.widget_themoneytizer_widget
 ##.widget_thesun_dfp_ad_widget
 ##.widget_uds-ads
 ##.widget_vb_sidebar_ad
@@ -30274,6 +30280,7 @@ _popunder+$popup
 ##.wptouch-ad
 ##.wpx-bannerize
 ##.wpx_bannerize
+##.wpx_bannerize_banner_box
 ##.wr-ad-slot
 ##.wr-home-top-adv
 ##.wrap-ad
