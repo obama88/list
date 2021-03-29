@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lbPfuPem1YModoFj181cbQ
+! Checksum: QTdAtVEAv1O8rg71wJg59g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202103291234
-! Last Modified: 2021年03月29日 12:34
+! Version: 202103291654
+! Last Modified: 2021年03月29日 16:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -18889,6 +18889,7 @@ _popunder+$popup
 ##.ad-block-300x250
 ##.ad-block-big
 ##.ad-block-bottom
+##.ad-block-btf
 ##.ad-block-clear-back
 ##.ad-block-header
 ##.ad-block-holder
@@ -26063,6 +26064,7 @@ _popunder+$popup
 ##.hori-play-page-adver
 ##.horisont_ads
 ##.horiz_adspace
+##.horizontal-ad
 ##.horizontal-ad-holder
 ##.horizontal-ad2
 ##.horizontal-ads
@@ -41560,7 +41562,6 @@ menstennisforums.com#@#.top_ads
 ||umwyfqgsg.com^
 ||umyijmhalvbk.com^
 ||unacceptableclevercapable.com^
-||unblockia.com^
 ||uncessoryel.info^
 ||uncilsdegr.club^
 ||unclemaidenprecise.com^
@@ -51333,7 +51334,7 @@ menstennisforums.com#@#.top_ads
 ||richardroeper.com/assets/banner/
 ||rpgcodex.net^*/gog_button.jpg
 ||s.radioreference.com/sm/$image
-||s3.reutersmedia.net/resources/r/?c=$image
+||s3.reutersmedia.net/resources/r/?ac=$image
 ||saabsunited.com/wp-content/uploads/*banner
 ||sareunited.com/uploaded_images/banners/
 ||sat24.com/bannerdetails.aspx?
@@ -53729,6 +53730,7 @@ usatoday.com##.gnt_tbr
 usatoday.com##.gnt_x__lbl
 thelakewoodscoop.com##.gofollow
 myabandonware.com##.gog
+golf.com##.golf-ad
 apkmirror.com##.gooWidget
 africanadvice.com,pspad.com,sudantribune.com,thehackernews.com##.google
 mediamass.net##.googleresponsive
@@ -56266,6 +56268,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ced.sascdn.com/tag/*/smart.js$domain=dr.dk
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
 @@||cloudinary.com/portalbici/advertisements/$domain=portalbici.es
+@@||core.windows.net^*/annonser/$image,domain=kmauto.no
 @@||custojusto.pt/user/myads/$~third-party
 @@||daumcdn.net/adfit/static/ad-native.min.js$domain=daum.net
 @@||daumcdn.net/adfit/static/ad.min.js$script,domain=daum.net
@@ -84077,6 +84080,7 @@ _mongo_stats/
 ||ugdturner.com^$third-party
 ||uhygtf1.com^$third-party
 ||umbel.com^$third-party
+||unblockia.com^$third-party
 ||unicaondemand.com^$third-party
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
