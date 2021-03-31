@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: V3N0MfkiovYfdEX2pC8jSA
+! Checksum: aB/uJp6u7v/V7IsXhVowLQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202103311231
-! Last Modified: 2021年03月31日 12:31
+! Version: 202103311629
+! Last Modified: 2021年03月31日 16:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -8850,8 +8850,11 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||00eeekk.com//html5/activityPage/
+||zhujib.com/wp-content/uploads/*/baiducdn.png
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+zhujib.com###b2-widget-html-2
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -18498,6 +18501,7 @@ zol.com.cn##span[class^="jisu-down"]
 coolpc.com.tw#@##mycookie
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 dota2.com.cn#@##bdshare
+zhujib.com#@#.social-top:not(html):not(body)
 eastday.com#@##leftShare
 gfan.com,gfan.net.cn#@##shareBox
 sogou.com#@##shareContent

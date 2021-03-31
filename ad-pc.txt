@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KGV2krxX3poeC0hUuff6EA
+! Checksum: ruk6yitRLUO11z+oqtuNLw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202103311231
-! Last Modified: 2021年03月31日 12:31
+! Version: 202103311629
+! Last Modified: 2021年03月31日 16:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32866,7 +32866,6 @@ menstennisforums.com#@#.top_ads
 ||8ze98lcl8389.com^
 ||9053fe03868ab.com^
 ||91jsnzw.xyz^
-||91mobiles.com^
 ||920sbo17zn88.com^
 ||924e60106cd9d0e.com^
 ||927a8dd1afec73.com^
@@ -53867,7 +53866,6 @@ moviemaker.com##.g-4.g
 businessofapps.com##.g-single
 yellowise.com##.g-widget-block
 titantv.com##.gAd
-winaero.com##.gadsens-ad
 myabandonware.com##.gameWow
 monstertruckgames.org##.gamecatbox
 investing.com##.generalOverlay
@@ -54718,8 +54716,8 @@ whatleaks.com##[href*="doublevpn.com"]
 elitepvpers.com##[href*="https://bitly.com/"]
 elitepvpers.com##[href*="https://oddeven.net"]
 steroid.com##[href*="https://www.anabolics.com"]
-winaero.com##[href="/classic-optimizer-tweaker/"]
 audiobookbay.net##[href="/dl-14-days-trial"]
+winaero##[href="/fix-windows-issues-performance/"]
 1movies.is##[href="/user/premiummembership"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
 toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
@@ -54742,7 +54740,6 @@ imagetwist.com##[href^="https://imagetwist.com/pxt/"]
 noypigeeks.com##[href^="https://nypgks.com/"]
 readlightnovel.org##[href^="https://readlightnovelnew.onelink.me/"]
 darknetdaily.com##[href^="https://shop.ledger.com/"]
-winaero.com##[href^="https://winaero.com/idx.php"]
 cnx-software.com##[href^="https://www.amazon.com/"]
 mmorpg.com##[href^="https://www.blackdesertonline.com/"]
 seganerds.com##[href^="https://www.canadacasino.ca/"]
@@ -54766,6 +54763,7 @@ smallseotools.com##[style*="height: 300px;"]
 wahm.com##[style="min-height:250px;"]
 guru99.com##[style^="float"]
 torrentresource.com##[width="150"]:last-child
+winaero.com##[width="300"]
 4chan.org##[width="728"]
 mobiforge.com##a > img[alt="Ad"]
 freshplaza.com##a.banner
@@ -54891,6 +54889,7 @@ riverbender.com##div[id^=ros-]
 opensubtitles.org##div[itemscope=""][itemtype="http://schema.org/Movie"] > fieldset
 9gag.com##div[style*="width: 500px; height: 281px;"]
 fansshare.com,iconarchive.com,unexplained-mysteries.com##div[style*="width:300px"]
+winaero.com##div[style*="width:400px;"]
 rlslog.net##div[style*="z-index:"]:first-child
 coincodex.com##div[style="background-color"]
 filesharingtalk.com##div[style="background-color: white; border-width: 2px; border-style: dashed; border-color: white;"]
@@ -66172,7 +66171,10 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||00eeekk.com//html5/activityPage/
+||zhujib.com/wp-content/uploads/*/baiducdn.png
 szxx.com.cn###A0
+zhujib.com###b2-widget-html-2
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -75818,6 +75820,7 @@ zol.com.cn##span[class^="jisu-down"]
 coolpc.com.tw#@##mycookie
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 dota2.com.cn#@##bdshare
+zhujib.com#@#.social-top:not(html):not(body)
 eastday.com#@##leftShare
 gfan.com,gfan.net.cn#@##shareBox
 sogou.com#@##shareContent
