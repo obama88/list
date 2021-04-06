@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VBf3ud5kcJPft2Aj+09jfA
+! Checksum: gRCeQ9BnqN7hFl320pf0YQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202104060911
-! Last Modified: 2021年04月06日 09:11
+! Version: 202104061233
+! Last Modified: 2021年04月06日 12:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -35018,6 +35018,7 @@ menstennisforums.com#@#.top_ads
 ||ctjvkaqiekquag.com^
 ||ctm-media.com^
 ||ctrlaltdel99.com^
+||ctromgvroh.com^
 ||ctsjackupspete.info^
 ||cttghjfhsw.com^
 ||cttwfmsx.com^
@@ -53046,6 +53047,7 @@ bizarrepedia.com###stack > .ln-thr
 saharareporters.com###stage-header
 geekwire.com###startup-resources-sidebar
 coincodex.com###sticky-footer
+mashable.com###sticky-spacer
 fool.com###sticky-wrapper
 afr.com###stickyLeaderboard
 gsmarena.com###subHeader
@@ -53569,7 +53571,6 @@ go.extra-drive.com,linkhub.icu##.button
 imac-torrents.com##.button-green
 miloyski.com##.button[target="_blank"]
 downarchive.com##.button_dl
-thedrinksbusiness.com##.buttons
 chez106.com,country1011.com,country1043.com,country600.com,foxradio.ca,gameinformer.com,kissnorthbay.com,kisssoo.com,ranker.com,thesoundla.com,tunegenie.com##.buy
 overclock.net##.buy-now
 morningstar.com##.buyout_leader_cont
