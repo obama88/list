@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Bmj6BKrFNvmBl8m6qSlwXA
+! Checksum: ctEa/1QTjuAxmxUsfqXrSw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202104082036
-! Last Modified: 2021年04月08日 20:36
+! Version: 202104090048
+! Last Modified: 2021年04月09日 00:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -8872,6 +8872,8 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||sinaimg.cn/large/61ac6637gy1gpcjble96hg21e00dwaum.gif
+||sinaimg.cn/large/61ac6637gy1gpciz97x5og21rw0go1kx.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 717dyi.com##.qptp+*,.vdgd+*,.qpgd+*,a>video
@@ -24894,6 +24896,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /skype-analytics.
 /sl.gif?1=
 /slimstat/*
+/sluurpy_track.js
 /small.gif?type
 /smartpixel-1.js
 /smartpixel.$domain=~smartpixel.com|~smartpixel.tv
@@ -27050,6 +27053,7 @@ _mongo_stats/
 ||audienceamplify.com^$third-party
 ||audienceiq.com^$third-party
 ||audiencepixel.com^$third-party
+||audienceplay.com^$third-party
 ||audiencerate.com^$third-party
 ||audiens.com^$third-party
 ||audio.sex^$third-party
@@ -30459,6 +30463,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trendcounter.de^$third-party
 ||trkme.net^$third-party
 ||txt.eu^$third-party
+||undom.net^$third-party
 ||uniconsent.com^$third-party
 ||universaltrackingcontainer.com^$third-party
 ||up-rank.com^$third-party
@@ -41507,6 +41512,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||rtlradio.de/stats.php?
 ||rtlradio.lu/stats.php?
 ||s.edeka.de^
+||sats.manager-magazin.de^
 ||schnaeppchenfuchs.com/js/default-$script
 ||secreta.de/tinc?
 ||shortnews.de/iframes/view_news.cfm?
