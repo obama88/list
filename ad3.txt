@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: o8WU16SI8Fq5qRmXPQEsgA
+! Checksum: ExR+J8syieE6BW20vOcq7w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202104091231
-! Last Modified: 2021年04月09日 12:31
+! Version: 202104092035
+! Last Modified: 2021年04月09日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -18414,6 +18414,9 @@ rjno1.com##div[style="display:none"]
 ##.a_sxpb
 ##.heg > .partner-list
 ##a[href^="/dasp.php?a="]
+!#sihu
+##script[src="/skin/base.js"] + #couplet
+##.search + #midBox
 !#T66y.com
 redircdn.com##.al
 rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
@@ -22299,6 +22302,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /clicktracking-global.
 /clicktracking.
 /clicktracking/*
+/clickTrackingAjaxController?
 /ClickTracks_
 /ClickTracksCookies.
 /clicktrends/*
@@ -26803,6 +26807,7 @@ _mongo_stats/
 ||g7329120395.co^
 ||g7527204730.co^
 ||g7725289065.co^
+||g7923373400.co^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -29144,6 +29149,7 @@ _mongo_stats/
 ||torbit.com^$third-party
 ||toro-tags.com^$third-party
 ||touchclarity.com^$third-party
+||tp88trk.com^$third-party
 ||tracc.it^$third-party
 ||trace-2000.com^$third-party
 ||trace.events^$third-party
@@ -32003,7 +32009,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||experience.contextly.com^
 ||f.email.bjs.com^*/1x2.gif
 ||facebook.com*/impression.php
+||facebook.com/adnw_request?
 ||facebook.com/ai.php?
+||facebook.com/ajax/bz?*__comet_req=
 ||facebook.com/brandlift.php
 ||facebook.com/common/cavalry_endpoint.php?
 ||facebook.com/method/links.getstats?
@@ -42787,6 +42795,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||ksta.de/cre-1.0/tracking/call.js?$domain=ksta.de
 @@||ksta.de^*/api/tracking/service/ksta/templateclient.js$domain=ksta.de
 @@||ksta.de^*/tracking/tracking.js$domain=ksta.de
+@@||lzstatic.com^*/gdpr/consentHandler/google_analytics.js$~third-party
+@@||lzstatic.com^*/gdpr/consentHandler/optimizely.js$~third-party
 @@||orginio.de/api/analytics/$~third-party,xmlhttprequest
 @@||rtl.de^*/videotracking.min.js$domain=rtl.de
 @@||rtoaster.jp^$script,domain=melonbooks.co.jp

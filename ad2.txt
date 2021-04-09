@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: T2HDrxmSGjbD/D8Uirlt6A
+! Checksum: PGvPBoNOJsUMO9O9od9u1g
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202104091231
-! Last Modified: 2021年04月09日 12:31
+! Version: 202104092035
+! Last Modified: 2021年04月09日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -18414,6 +18414,9 @@ rjno1.com##div[style="display:none"]
 ##.a_sxpb
 ##.heg > .partner-list
 ##a[href^="/dasp.php?a="]
+!#sihu
+##script[src="/skin/base.js"] + #couplet
+##.search + #midBox
 !#T66y.com
 redircdn.com##.al
 rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
