@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j8ONmN5Ggv8X9sFL9UY2ug
+! Checksum: jZplqkqDLSs6NCqGt48dKg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202104090908
-! Last Modified: 2021年04月09日 09:08
+! Version: 202104091231
+! Last Modified: 2021年04月09日 12:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -27702,6 +27702,7 @@ _popunder+$popup
 ##.page-ad-container
 ##.page-ads
 ##.page-advert
+##.page-advertisement
 ##.page-box-ad
 ##.page-content--ad-block
 ##.page-content__advert
@@ -32529,6 +32530,7 @@ menstennisforums.com#@#.top_ads
 ||1955dcb2fee1a13.com^
 ||196f25ce95a.com^
 ||1983c499735.com^
+||199b8977fc.com^
 ||19a782bc982.com^
 ||19b45a16170729.com^
 ||19beda38dc2ce42.com^
@@ -35229,6 +35231,7 @@ menstennisforums.com#@#.top_ads
 ||dcrecycle.top^
 ||dcwgzqbfl.com^
 ||dcxtvftrdd.com^
+||dd6a902f1502ccf22557.com^
 ||dddomainccc.com^
 ||ddf67683e4778d.com^
 ||dditingwetlan.site^
@@ -38029,6 +38032,7 @@ menstennisforums.com#@#.top_ads
 ||koemrbflufm.com^
 ||koertf.com^
 ||kogutcho.net^
+||koijwsixu.com^
 ||koimplishing.club^
 ||koocaucy.com^
 ||koora2live.com^
@@ -39501,6 +39505,7 @@ menstennisforums.com#@#.top_ads
 ||nvrblk.xyz^
 ||nvtbspcwhb.com^
 ||nvwqqlroj.com^
+||nvysyzemuvac.com^
 ||nwliko.com^
 ||nxcxithvcoeh.com^
 ||nxtuaeko.com^
@@ -40342,6 +40347,7 @@ menstennisforums.com#@#.top_ads
 ||psfmlcgzdtwfwf.com^
 ||psisalte.com^
 ||psitchie.com^
+||psiwaphado.pro^
 ||psixoglika.pro^
 ||pskidsqhsbfi.com^
 ||psoaghie.net^
@@ -40695,6 +40701,7 @@ menstennisforums.com#@#.top_ads
 ||rdtrck2.com^
 ||reacheffectsp.work^
 ||reachsowraspberry.com^
+||readingreflect.com^
 ||readiong.net^
 ||readly-renterval.icu^
 ||readvasturked.pro^
@@ -41257,6 +41264,7 @@ menstennisforums.com#@#.top_ads
 ||seeptoag.net^
 ||sehoweve.fun^
 ||seislational.club^
+||seizedbraggingdeceptive.com^
 ||sel-sel-fie.com^
 ||selectserialcage.com^
 ||selfbiological.com^
@@ -41586,6 +41594,7 @@ menstennisforums.com#@#.top_ads
 ||spendeivivar.site^
 ||sperans-beactor.com^
 ||sperconset.club^
+||spermparticipation.com^
 ||spherediary.com^
 ||spillsackterrified.com^
 ||spiritedirreparablemiscarriage.com^
@@ -42984,6 +42993,7 @@ menstennisforums.com#@#.top_ads
 ||wholesomeindians.com^
 ||whoostoo.net^
 ||whoshood.com^
+||whowhipi.net^
 ||whs82908.com^
 ||whudiphezy.pro^
 ||whugesto.net^
@@ -53490,6 +53500,7 @@ sciencealert.com##.article-fulltext > div
 scoop.co.nz##.article-left-box
 nintendolife.com,purexbox.com##.article-recommendations
 audizine.com##.articleIMG
+news18.com##.article_mad
 cnx-software.com##.asensor-single
 techweez.com##.asspp-single
 animalcrossingworld.com##.at-sidebar-1
@@ -53511,6 +53522,7 @@ dailyvoice.com##.b-banner
 revelist.com##.b-container
 china.ahk.de##.b-header__banner
 dnserrorassist.att.net,search.frontier.com,searchguide.level3.com##.b-links
+geekflare.com##.b-sticky-sidebar-wrapper-simple
 bizcommunity.com##.b-topbanner
 scorespro.com##.b160_600
 scorespro.com##.b300
@@ -54403,7 +54415,12 @@ catholic.net##.publicidad
 eitb.eus##.publicidad_robapaginas
 the18.com##.push-downv
 2conv.com##.push-offer
+giantfreakinrobot.com##.pw-leaderboard-atf-container
+giantfreakinrobot.com##.pw-leaderboard-btf-container
+giantfreakinrobot.com##.pw-med-rect-atf-container
+giantfreakinrobot.com##.pw-med-rect-btf-container
 thedirect.com##.pw-ph-leaderboard
+giantfreakinrobot.com##.pw-ph-med-rect
 thedirect.com##.pw-ph-sky
 tri247.com##.q2w3-fixed-widget-container
 qrobe.it##.qad
@@ -55250,11 +55267,11 @@ smallseotools.com#?#.col-sm-12 > :-abp-has(p:-abp-contains(Advertisement))
 solarmovie.ink#?#.row:-abp-contains(in HD)
 time.com#?#.article-small-sidebar > .sticky-container:-abp-has(div[id^="ad-"])
 tumblr.com#?#._1DxdS:-abp-has( > div > header[role="banner"])
-twitter.com#?#div[data-testid="UserCell"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션 중|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/))
-twitter.com#?#div[data-testid="eventHero"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션 중|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
-twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션 중|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/))
-twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션 중|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
-twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션 중|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
+twitter.com#?#div[data-testid="UserCell"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/))
+twitter.com#?#div[data-testid="eventHero"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
+twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/))
+twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
+twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
 windowsbulletin.com#?#.code-block:-abp-has(a[href^="http://www.reimageplus.com/"])
 windowsbulletin.com#?#strong:-abp-has(a[href^="http://www.reimageplus.com/"])
 yelp.at,yelp.be,yelp.ca,yelp.ch,yelp.cl,yelp.co.jp,yelp.co.nz,yelp.co.uk,yelp.com,yelp.com.ar,yelp.com.au,yelp.com.br,yelp.com.hk,yelp.com.mx,yelp.com.ph,yelp.com.sg,yelp.com.tr,yelp.cz,yelp.de,yelp.dk,yelp.es,yelp.fi,yelp.fr,yelp.ie,yelp.it,yelp.my,yelp.nl,yelp.no,yelp.pl,yelp.pt,yelp.se#?#div[class^=" container_"]:-abp-has(a[href^="/adredir?"])
@@ -56155,6 +56172,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||crackle.com/vendor/AdManager.js$script,~third-party
 @@||css.wpdigital.net/wpost/css/combo?*/ads.css
 @@||cvs.com/webcontent/images/weeklyad/adcontent/$~third-party
+@@||d12prgon3aw7l1.cloudfront.net^$image,domain=jiji.co.ke
 @@||dailymotion.com/embed/$subdocument,domain=~gum-gum-streaming.co|~gum-gum-streaming.com|~gum-gum-streaming.tv|~mavanimes.co|~streaming-vostfr.com
 @@||dashboard.adskeeper.co.uk^$domain=dashboard.adskeeper.co.uk
 @@||davidsilverspares.co.uk/graphics/*_ad.gif$~third-party
@@ -56218,6 +56236,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||island.lk/userfiles/image/danweem/island.gif
 @@||itv.com/itv/hserver/*/site=itv/$xmlhttprequest
 @@||itv.com/itv/jserver/$script,domain=itv.com
+@@||jiji.co.ke/api_web/v1/advert/$~third-party,xmlhttprequest
 @@||jwpcdn.com/player/plugins/googima/$script,domain=iheart.com|video.vice.com
 @@||kotaku.com^*/assets/new-client/adManager.$script,~third-party
 @@||lastpass.com/ads.php$subdocument,~third-party
@@ -73629,6 +73648,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||libs.baidu.com^$domain=138txt.com|18xs.org|1biqu.com|1kanshu.cc|230book.com|23hh.com|23txt.com|23wxx.com|258zw.com|266ks.com|27xsw.com|2baob.com|30sy.com|33yq.com|37zw.la|39shubao.com|3yt.com|477zw.com|52biquge.com|5ccc.tw|81zw.me|877zw.com|99mk.com|99shumeng.net|aixswx.com|aomolit.com|aoyuge.com|balingtxt.com|baoshuu.com|biqiuge8.com|biqubao.com|biqudu.tv|biquduo.com|biquga.com|biquge.com.cn|biquge.lu|biquge.tv|biquge11.com|biquge98.net|biqugecd.com|biqugego.com|biqugemm.com|biqugesc.com|biqusan.com|biquyi.com|bixia.org|bodekang.net|boluoxs.com|bookbao.org|botaodz.com|bqkan.com|bshuku.com|bswtan.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|clewx.com|damengzhu1.com|dashenxiaoshuo.com|day66.com|ddxs0.com|ddxsku.com|dushuge.net|farpop.com|fbxsw.com|gdbzkz.com|guaili.org|hatxt.com|hbfie.org|hehuamei.com|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hybiquge.com|iddwx.com|imiaobige.com|ishisetianxia.com|ixiatxt.com|ixs.la|jianlaixiaoshuo.com|jinshulo.com|jx.la|kkbiqu2.com|liewen.la|lindiankanshu.cc|liudatxt.com|loubiqu.com|lwtxt.net|lwxstxt.com|mhtwx.la|mubige.com|paoshu8.com|paoshuzw.com|pfwx.com|piaotianxs.com|ppskw.com|qbxs8.net|qianrenge.cc|qishusk.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shu008.com|shuhaiwu.com|shumil.co|siluke.tv|siluwx.org|sizhicn.com|skyzww.com|soxscc.com|tangsanshu.com|thxsw.com|ttzw.tv|tutengzw.com|txshuku.la|u33.me|uidzhx.com|v63xs.com|vipsk.org|wanwenhui.com|wenxuem.com|wrlwx.com|x23us.me|x81zw.com|xbiqugecc.com|xbiqugew.net|xbiquke.com|xbqge.net|xcmxsw.com|xdingdiann.com|xieyixs.com|xinshuhaige.com|xinxs.la|xs5200.com|xs98.com|xsbiqu.com|xsbiqugew.com|xsqishu.com|xsw55.net|xszww.com|xuanshu.com|xuehongxs.com|xyusk.com|yawenb.com|yikanxiaoshuoa.com|yq-888.com|yruan.com|yssm.info|yunxs.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zwdu.com|zzs5.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
+###gudingweiDiv
+||tn34lkn.com^
+||v5levm1.com^
 bxwx3.org###addiv3
 bxwx3.org###bdstatic
 55shuba.com###botDiv
@@ -78945,6 +78967,7 @@ fqsousou.com,kengso.com#@#.user-share
 /measurement/access/contents?
 /measurementBeacon.
 /media-analytics.min.
+/media-analytics/*
 /media_viewed_tracking.
 /medialaanUniversalTracker.
 /mediametrie.js
@@ -80470,6 +80493,7 @@ fqsousou.com,kengso.com#@#.user-share
 /track/track.php?
 /track/usage.
 /track/view/*
+/track/view?
 /track/view|
 /track/visitors/?
 /track/visits/?
@@ -92028,6 +92052,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hotelscombined.com/QUkd4lO9/
 ||hotpads.com/xOR1K5b6/
 ||kerastase-usa.com/IZ/
+||kickstarter.com/Uy3R669N/init.js
 ||kiehls.com/IZ/G8ATFja1/
 ||kiva.org/r3pNVz1F/
 ||lancome-usa.com/IZ/
@@ -97007,6 +97032,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||sat.sanoma.fi^
 ||stats.fd.nl^
 ||tijd.be/fb/?
+||tweakers.net/x/scripts/min/TyYQlL.js
+||tweakers.net^*&p=$image
 ||vroom.be^*/stats.js?
 ||vroom.be^*/stats.php?
 ||webstatistieken.xs4all.nl^
