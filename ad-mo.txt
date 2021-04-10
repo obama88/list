@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VSdPXytrG8BLW54PY584rw
+! Checksum: xuOZaCrIs3NXAA6Nv4mrKg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104102034
-! Last Modified: 2021年04月10日 20:34
+! Version: 202104110044
+! Last Modified: 2021年04月11日 00:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59612,7 +59612,6 @@ ubmcmm.baidustatic.com
 ||gclick.cn^$third-party
 ||gd.189.cn^*.htm?SP=$third-party
 ||gdbly.com^
-||gdcytv.cn^
 ||gdgy56.com^
 ||gdskywings.com^
 ||gdxxb.com^$third-party
@@ -66127,6 +66126,7 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||gdcytv.cn^*.gif
 szxx.com.cn###A0
 fuliba2021.net###focusslide
 fuliba2021.net##.widget_custom_html
