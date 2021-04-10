@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GiZoBlqrIqIREZn9l3EoRw
+! Checksum: baxTxg3ODD1rGk3Yx5gb0w
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202104100910
-! Last Modified: 2021年04月10日 09:10
+! Version: 202104101231
+! Last Modified: 2021年04月10日 12:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -18575,6 +18575,9 @@ zol.com.cn##span[class^="jisu-down"]
 coolpc.com.tw#@##mycookie
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 dota2.com.cn#@##bdshare
+189.cn#@#.share-panel
+189.cn#@##linkShare
+@@||189.cn^*/shareBox.
 eastday.com#@##leftShare
 gfan.com,gfan.net.cn#@##shareBox
 sogou.com#@##shareContent
