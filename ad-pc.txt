@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uD5cmnVVwgcqf04d9gNdWA
+! Checksum: ZGUufYAxOkwwOq/HYl8nZw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202104141628
-! Last Modified: 2021年04月14日 16:28
+! Version: 202104150042
+! Last Modified: 2021年04月15日 00:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -31392,7 +31392,6 @@ _popunder+$popup
 ##div[itemtype="http://www.schema.org/WPAdBlock"]
 ##iframe[id^="google_ads_frame"]
 ##iframe[src*="mellowads.com"]
-##iframe[src="about:blank"]
 ##iframe[src^="http://ad.yieldmanager.com/"]
 ##iframe[src^="https://pagead2.googlesyndication.com/"]
 ##iframe[src^="https://tpc.googlesyndication.com/"]
@@ -32428,7 +32427,6 @@ sensacionalista.com.br#@#div[id^="advads-"]
 flightcentre.co.uk,out.com#@#div[id^="dfp-ad-"]
 lavozdegalicia.es#@#div[itemtype="http://schema.org/WPAdBlock"]
 bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id^="google_ads_frame"]
-google.com#@#iframe[src="about:blank"]
 weather.yahoo.com#@#iframe[src^="http://ad.yieldmanager.com/"]
 japan-webike.be,japan-webike.ca,japan-webike.ch,japan-webike.dk,japan-webike.ie,japan-webike.it,japan-webike.kr,japan-webike.nl,japan-webike.se,webike-china.cn,webike.ae,webike.co.at,webike.co.hu,webike.co.il,webike.co.uk,webike.com.ar,webike.com.bd,webike.com.gr,webike.com.kh,webike.com.mm,webike.com.ru,webike.com.tr,webike.com.ua,webike.cz,webike.de,webike.es,webike.fi,webike.fr,webike.hk,webike.id,webike.in,webike.la,webike.mt,webike.mx,webike.my,webike.net,webike.net.br,webike.net.pl,webike.ng,webike.no,webike.nz,webike.ph,webike.pk,webike.pt,webike.sg,webike.tw,webike.vn#@#.ad_box
 japan-webike.be,japan-webike.ca,japan-webike.ch,japan-webike.dk,japan-webike.ie,japan-webike.it,japan-webike.kr,japan-webike.nl,japan-webike.se,webike-china.cn,webike.ae,webike.co.at,webike.co.hu,webike.co.il,webike.co.uk,webike.com.ar,webike.com.bd,webike.com.gr,webike.com.kh,webike.com.mm,webike.com.ru,webike.com.tr,webike.com.ua,webike.cz,webike.de,webike.es,webike.fi,webike.fr,webike.hk,webike.id,webike.in,webike.la,webike.mt,webike.mx,webike.my,webike.net,webike.net.br,webike.net.pl,webike.ng,webike.no,webike.nz,webike.ph,webike.pk,webike.pt,webike.sg,webike.tw,webike.vn#@#.ad_title
@@ -32516,6 +32514,7 @@ menstennisforums.com#@#.top_ads
 ||103092804.com^
 ||10b883b3d61d.com^
 ||10desires.com^
+||10f0c7b222.com^
 ||10fbb07a4b0.se^
 ||1100i.com^
 ||110380d053f716c4.com^
@@ -33800,6 +33799,7 @@ menstennisforums.com#@#.top_ads
 ||babyboomboomads.com^
 ||babysitterpancakerich.com^
 ||backlogtop.xyz^
+||backslider.buzz^
 ||backwardkneesencroach.com^
 ||baconaces.pro^
 ||badgearsregra.site^
@@ -34082,6 +34082,7 @@ menstennisforums.com#@#.top_ads
 ||boffinsoft.com^
 ||boffoadsfeeds.com^
 ||bogrodius.com^
+||bogscarcely.com^
 ||bogytoeelf.com^
 ||boinkcash.com^
 ||bokrelri.com^
@@ -35054,6 +35055,7 @@ menstennisforums.com#@#.top_ads
 ||cwgads.com^
 ||cwkuki.com^
 ||cwsgwqbcdhtk.com^
+||cwwzubqasdqayf.com^
 ||cxuehuxz.com^
 ||cyan92010.com^
 ||cyberaircraftcast.com^
@@ -35820,6 +35822,7 @@ menstennisforums.com#@#.top_ads
 ||ejirytuw.xyz^
 ||ejoonsoo.net^
 ||ejrhtmwm.com^
+||ejurzsax.com^
 ||ejyrabeonmyh.com^
 ||ek9xrk5gyu.com^
 ||ekansovi.com^
@@ -36082,6 +36085,7 @@ menstennisforums.com#@#.top_ads
 ||eurekaddl.cyou^
 ||euroclick.com^
 ||europacash.com^
+||europecolorfulfancy.com^
 ||europertsticke.site^
 ||euros4click.de^
 ||eutdrjvsrmav.com^
@@ -36565,6 +36569,7 @@ menstennisforums.com#@#.top_ads
 ||freecouponbiz.com^
 ||freedownloadsoft.net^
 ||freeevpn.info^
+||freegiftvip.xyz^
 ||freementgd.club^
 ||frees2020.com^
 ||freeskreen.com^
@@ -37345,6 +37350,7 @@ menstennisforums.com#@#.top_ads
 ||ibtfbbtjktu.com^
 ||iccompanzens.fun^
 ||icedewear.site^
+||icgrohbeory.com^
 ||ichimaip.net^
 ||icjbnnjiung.com^
 ||icjvfvoh.com^
@@ -38216,6 +38222,7 @@ menstennisforums.com#@#.top_ads
 ||lrwwnbjiv.com^
 ||lsailington.club^
 ||lsckvlhhqlo.com^
+||lsxdcdnrrco.com^
 ||ltdome.com^
 ||lubedlegionpea.com^
 ||lubricantentrance.com^
@@ -38491,6 +38498,7 @@ menstennisforums.com#@#.top_ads
 ||melo.space^
 ||meltpiratehamlet.com^
 ||membergo.club^
+||memberprizes.com^
 ||memesoupedyea.com^
 ||memodiketryout.com^
 ||memorableordealstranger.com^
@@ -38786,6 +38794,7 @@ menstennisforums.com#@#.top_ads
 ||movfull.com^
 ||movie-pass.club^
 ||movie-pass.live^
+||moviefatbeatfarm.live^
 ||moviemediahub.com^
 ||moviesflix4k.info^
 ||moviesprofit.com^
@@ -38996,6 +39005,7 @@ menstennisforums.com#@#.top_ads
 ||negyuk.com^
 ||nehodyshy.pro^
 ||neighbetweenintrude.com^
+||neighchurch.com^
 ||neitherentrailsrim.com^
 ||neitherspreta.site^
 ||nellads.com^
@@ -42272,6 +42282,7 @@ menstennisforums.com#@#.top_ads
 ||vendnibtemp.com^
 ||venetrigni.com^
 ||venotrouble.biz^
+||ventilatorvisitedgrain.com^
 ||ventrequmus.com^
 ||venuegirtjive.com^
 ||veopvpgxcrt.com^
@@ -46862,6 +46873,7 @@ menstennisforums.com#@#.top_ads
 ||afriflatry.co^$popup,third-party
 ||agacelebir.com^$popup
 ||agalarvitaran.com^$popup
+||ahadsply.com^$popup
 ||ahbdsply.com^$popup
 ||ahscdn.com^$popup
 ||aidaigry.com^$popup
@@ -46908,6 +46920,7 @@ menstennisforums.com#@#.top_ads
 ||azasdf.be^$popup
 ||b3z29k1uxb.com^$popup
 ||b54m4qbmt0b9.com^$popup
+||backslider.buzz^$popup
 ||baypops.com^$popup
 ||bbaahc.com^$popup
 ||bbuni.com^$popup,third-party
@@ -47136,6 +47149,7 @@ menstennisforums.com#@#.top_ads
 ||foxcdn.life^$popup
 ||fpctraffic3.com^$popup
 ||freeevpn.info^$popup
+||freegiftvip.xyz^$popup
 ||freehookupaffair.com^$popup
 ||frees2020.com^$popup
 ||friendlyduck.com^$popup
@@ -47341,6 +47355,7 @@ menstennisforums.com#@#.top_ads
 ||meetsexygirls.org^$popup,third-party
 ||megapopads.com^$popup
 ||megdexchange.com^$popup
+||memberprizes.com^$popup
 ||menepe.com^$popup
 ||metricfast.com^$popup
 ||mk-ads.com^$popup
@@ -47359,6 +47374,7 @@ menstennisforums.com#@#.top_ads
 ||moneytec.com^$popup,third-party
 ||morphonebrities.info^$popup
 ||movfull.com^$popup
+||moviefatbeatfarm.live^$popup
 ||moviemediahub.com^$popup
 ||moviestreamingonline.club^$popup
 ||mpqfzyh.com^$popup
@@ -47674,6 +47690,7 @@ menstennisforums.com#@#.top_ads
 ||tfaln.com^$popup
 ||tfiph.com^$popup
 ||thansendmaterial-14.live^$popup
+||thaudray.com^$popup
 ||the-binary-trader.biz^$popup,third-party
 ||the-digital-market.net^$popup,third-party
 ||thebestgame2020.com^$popup
@@ -57034,6 +57051,7 @@ www.google.com#@##videoads
 @@||wmtrafficentry.com/cgi-bin/ewm.cgi/*_HeaderTab?$popup,domain=extremetube.com|spankwire.com
 ! EasyList China
 -1688-wp-media/ads/
+/5ixcmbwj/js/ad.js
 -880-80-4.jpg
 -90mh-gg.
 .bid/ads/
@@ -58225,6 +58243,7 @@ _xiuno_com_ad/
 ##script[src="/templates/frontend/frontend-jiucao/js/jquery.lazyload.min.js"] + .footer_app_box
 ##span[title="neteasefooter"]
 ##style + .vdgdo
+##.wrap + #btmBox
 ##A[href*="/hth104.com/"]
 ##A[href*="/170hth.com/"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
@@ -65658,7 +65677,15 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||aipp99.com/haose/
 szxx.com.cn###A0
+weishangshijie.cn###wad_left
+weishangshijie.cn###wad_right
+weishangshijie.cn##.head_0905
+weishangshijie.cn##.head_imgwl
+weishangshijie.cn##.w_bzb_1
+weishangshijie.cn##DIV[class^="ad_"]
+weishangshijie.cn##DIV[class^="news_a"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -67045,8 +67072,6 @@ jstv.com###vplayad
 160.com###w-btn-advertisement
 zqzq.com###wAdTop1
 zqzq.com###wAdTop2
-weishangshijie.com###wad_left
-weishangshijie.com###wad_right
 21ic.com###warp_con
 chineseinla.com###weixin_ads2
 fububu.com###wendibu
@@ -67492,7 +67517,6 @@ gamme.com.tw##.adread
 appinn.com##.ads-m
 360.cn##.ads-pic
 shejidaren.com##.ads-post-foot
-weishangshijie.com##.ads228_1_r
 5icool.org##.ads300_show
 eeyy.cc##.ads650
 cntronics.com##.ads970-90
@@ -68479,7 +68503,6 @@ winning11cn.com##.hdc > div > div[align="center"]
 mtrend.cn##.hdlist
 ali213.net##.head-left
 hkepc.com##.headBanner
-weishangshijie.com##.head_0905
 jmw.com.cn##.head_1b
 jmw.com.cn##.head_3
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.head_middle > div[class]:first-child
@@ -69025,8 +69048,6 @@ chinaz.com##.newsMainBox-textad
 afzhan.com##.newsRightAdv
 ifeng.com##.news_ADbox
 m.baidu.com##.news_ad
-weishangshijie.com##.news_ads1200
-weishangshijie.com##.news_ads_1028
 jia360.com##.news_adv:nth-child(3)
 aguitar.cn##.news_b
 zhcw.com##.news_blanck
@@ -69045,7 +69066,6 @@ gamersky.com##.ngg_down
 chongdiantou.com##.nice-sales
 mamecn.com##.njjGsxzLeft > dl > .cont1
 mamecn.com##.njjGsxzRight
-weishangshijie.com##.nleft_ads
 dyhjw.com##.nn_link
 wallstreetcn.com##.node-main-ad
 zhicheng.com##.normal-banner
@@ -97079,6 +97099,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||scorecardresearch.com/c2/plugins/streamingtag_plugin_jwplayer.js
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_html5.js
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_theplatform.js
+@@||scorecardresearch.com/internal-c2/plugins/streamingtag_plugin_jwplayer.js
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
 @@||sealserver.trustwave.com/seal.js$domain=zoom.us
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
