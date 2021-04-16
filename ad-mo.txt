@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qZJFlpCCw2orOFCQnzXDQA
+! Checksum: xJNKBM9kcqCW9xB/dcVtaQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104160911
-! Last Modified: 2021年04月16日 09:11
+! Version: 202104161232
+! Last Modified: 2021年04月16日 12:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -32801,6 +32801,7 @@ menstennisforums.com#@#.top_ads
 ||778669.com^
 ||77d0f28ca582231.com^
 ||77f24529d8427410.com^
+||781ca8a804e.com^
 ||7839e0482307b9276b.com^
 ||78986ba32c.com^
 ||789a42c1a33aa5.com^
@@ -34993,6 +34994,7 @@ menstennisforums.com#@#.top_ads
 ||d71e6dd31a026d45.com^
 ||d72gb9oukw3j.com^
 ||d77685035ab.com^
+||d80ca4cff3.com^
 ||d869381a42af33b.com^
 ||d99sure.xyz^
 ||d9kvn70l4ogn.com^
@@ -36458,6 +36460,7 @@ menstennisforums.com#@#.top_ads
 ||franklyclapmaggot.com^
 ||franticallyseptember.com^
 ||fraudoutrageoustransport.com^
+||fraudulentmatt.com^
 ||frbyvuxzvmqpb.com^
 ||freakspybad.com^
 ||free-domain.net^
@@ -38767,6 +38770,7 @@ menstennisforums.com#@#.top_ads
 ||murkymouse.online^
 ||musclespuffyextraordinary.com^
 ||mushroomresolved.com^
+||musicaldurabledays.com^
 ||musicnote.info^
 ||musicrebuild.com^
 ||mustardlearnfourteenth.com^
@@ -39217,6 +39221,7 @@ menstennisforums.com#@#.top_ads
 ||oblivionwatcherrebellious.com^
 ||obnyujeibv.com^
 ||obstacleconsideringheadphone.com^
+||obstinacyfastadditional.com^
 ||obstructlawn.com^
 ||obtainlylibuk.club^
 ||occupangno.club^
@@ -39667,6 +39672,7 @@ menstennisforums.com#@#.top_ads
 ||phaboart.net^
 ||phabsoun.net^
 ||phaignoo.com^
+||phaihoaw.net^
 ||phaikroo.net^
 ||pharougn.com^
 ||phastoag.com^
@@ -40256,6 +40262,7 @@ menstennisforums.com#@#.top_ads
 ||qyixifzol.com^
 ||qyxwfe.com^
 ||qza7iorexyrp.com^
+||qzfrmewdbzkcsf.com^
 ||qzgbhuelut.com^
 ||qziqnfwzk.com^
 ||qzownvqgn.com^
@@ -41107,6 +41114,7 @@ menstennisforums.com#@#.top_ads
 ||soapproceeding.com^
 ||soawhoaw.com^
 ||sobakapi2sa8la09.com^
+||sobatsizniy.com^
 ||socalledsteadilyeducated.com^
 ||socialbars-web1.com^
 ||socialbars-web2.com^
@@ -41530,6 +41538,7 @@ menstennisforums.com#@#.top_ads
 ||tendents.club^
 ||tensecolonialismwandering.com^
 ||tentiaggie.club^
+||tentinspiredcontradict.com^
 ||tentmess.com^
 ||teosredic.com^
 ||teqhllxidowmi.com^
@@ -47739,6 +47748,7 @@ menstennisforums.com#@#.top_ads
 ||zlink6.com^$popup
 ||zlinkm.com^$popup
 ||zryydi.com^$popup
+||zugnogne.com^$popup
 ||130.211.$popup,third-party,domain=~in-addr.arpa
 ||142.91.$popup,third-party,domain=~in-addr.arpa
 ||172.255.6.$popup,third-party,domain=~in-addr.arpa
