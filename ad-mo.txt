@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: shVuWl71t5c1J0RwECD93w
+! Checksum: NLXwMVao5c2Zo1Ph5zN1BA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104180913
-! Last Modified: 2021年04月18日 09:13
+! Version: 202104181231
+! Last Modified: 2021年04月18日 12:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -34680,6 +34680,7 @@ menstennisforums.com#@#.top_ads
 ||compensess.club^
 ||compensions.pro^
 ||compiletormentboats.com^
+||completedmisunderstand.com^
 ||complicatedgeneratelens.com^
 ||complicatedtelegraph.com^
 ||complified.club^
@@ -36345,6 +36346,7 @@ menstennisforums.com#@#.top_ads
 ||flnwaqyh.com^
 ||flodonas.com^
 ||flomigo.com^
+||floordisclosewhereas.com^
 ||flopinclose.com^
 ||flowerythug.com^
 ||flowln.com^
@@ -37327,6 +37329,7 @@ menstennisforums.com#@#.top_ads
 ||incapabledroppingachievement.com^
 ||incapablepublicityvolatile.com^
 ||incarcererez.xyz^
+||inclinationwitchcraftafresh.com^
 ||incommandary.club^
 ||incompatiblemisterfarmer.com^
 ||incompetentsummitseparation.com^
@@ -37513,6 +37516,7 @@ menstennisforums.com#@#.top_ads
 ||jeperdee.net^
 ||jeqixokniyny.com^
 ||jeshnpdqy.com^
+||jessieflown.com^
 ||jetsowilk.com^
 ||jetx.info^
 ||jevqbzflcbcpz.com^
@@ -39961,6 +39965,7 @@ menstennisforums.com#@#.top_ads
 ||pryrhoohs.site^
 ||ps7894.com^
 ||psampabs.net^
+||psaudous.com^
 ||psaughun.com^
 ||psaukrik.net^
 ||psclicks.com^
@@ -40102,6 +40107,7 @@ menstennisforums.com#@#.top_ads
 ||pwondjwwgqahw.com^
 ||pwptibeetbf.com^
 ||pwwghcyzsn.info^
+||px1alsry.com^
 ||pxjzhqcmuaa.com^
 ||pxlqyrteuuh.com^
 ||pxmyjxebxgv.com^
@@ -41169,6 +41175,7 @@ menstennisforums.com#@#.top_ads
 ||spellresolute.com^
 ||spencedsd.club^
 ||spendeivivar.site^
+||spentforearmprovenance.com^
 ||sperans-beactor.com^
 ||sperconset.club^
 ||spermparticipation.com^
@@ -41599,6 +41606,7 @@ menstennisforums.com#@#.top_ads
 ||thorsado.net^
 ||thoseads.com^
 ||thoudroa.net^
+||thoughclassifiedjeff.com^
 ||thoughtthricecompress.com^
 ||thoughuttered.com^
 ||thoutiquede.club^
@@ -42466,6 +42474,7 @@ menstennisforums.com#@#.top_ads
 ||wfxeieahmej.com^
 ||wg-aff.com^
 ||wgat5ln2wly8.com^
+||wgbeugkn.com^
 ||wgimuuqvlumvyy.com^
 ||wgpsethooknqv.com^
 ||wgpsjcpdulptl.com^
@@ -42947,6 +42956,7 @@ menstennisforums.com#@#.top_ads
 ||yourquickads.com^
 ||yourwebbars.com^
 ||yowlcapkegs.com^
+||ypjmyskeii.com^
 ||ypkbybzpd.com^
 ||ypofozux.xyz^
 ||ypolukuxt.com^
