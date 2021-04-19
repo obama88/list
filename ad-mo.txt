@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TJpKrCttkvjJNqNJD6hjtg
+! Checksum: wD7vGXCbJA27VwRHONGwqA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104200044
-! Last Modified: 2021年04月20日 00:44
+! Version: 202104200425
+! Last Modified: 2021年04月20日 04:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -25339,6 +25339,7 @@ _popunder+$popup
 ##.footerads
 ##.footeradspace
 ##.footertextadbox
+##.forbes-ad-container
 ##.foreign-ad01
 ##.foreign-ad02
 ##.forex_ad_links
@@ -38818,6 +38819,7 @@ menstennisforums.com#@#.top_ads
 ||mz28ismn.com^
 ||mzol7lbm.com^
 ||mzvwhksbwnj.com^
+||n19.biz^
 ||n1ora14.online^
 ||n39hc7isp08t.com^
 ||n3x7.xyz^
@@ -47292,6 +47294,7 @@ menstennisforums.com#@#.top_ads
 ||mytrackf73.com^$popup
 ||myusersoffer.com^$popup
 ||mywondertrip.com^$popup
+||n19.biz^$popup
 ||naganoadigei.com^$popup
 ||namesakeoscilloscopemarquis.com^$popup
 ||nanoadexchange.com^$popup
@@ -47595,6 +47598,7 @@ menstennisforums.com#@#.top_ads
 ||thaudray.com^$popup
 ||the-binary-trader.biz^$popup,third-party
 ||the-digital-market.net^$popup,third-party
+||thebest-casualdating1.com^$popup
 ||thebestgame2020.com^$popup
 ||thepornsurvey.com^$popup
 ||ths9j89.com^$popup
