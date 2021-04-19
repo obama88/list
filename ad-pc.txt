@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Cq7PYA4c4FhZKcWLnWnnWQ
+! Checksum: eVW8tVx+Pm5Hy1l+PZHNsg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202104190042
-! Last Modified: 2021年04月19日 00:42
+! Version: 202104191231
+! Last Modified: 2021年04月19日 12:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -51243,7 +51243,6 @@ menstennisforums.com#@#.top_ads
 ||richardroeper.com/assets/banner/
 ||rpgcodex.net^*/gog_button.jpg
 ||s.radioreference.com/sm/$image
-||s4.reutersmedia.net/resources/$image
 ||saabsunited.com/wp-content/uploads/*banner
 ||sareunited.com/uploaded_images/banners/
 ||sat24.com/bannerdetails.aspx?
@@ -71100,6 +71099,9 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=line.me
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=line.me
+@@||securepubads.g.doubleclick.net/gpt/pubads$domain=line.me
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
@@ -97962,6 +97964,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||gushiwen.org/getTicket.aspx
 ||51cto.com/edu/center/js/interaction_iframe.js
 ||360doc.com/js/showarticle.js
+zhenbuka.com##.jq-toast-wrap
 fx361.com###k_s_ol_chatWin
 fx361.com###k_s_ol_chatWinSm
 fanyi.sogou.com##.img-banner
