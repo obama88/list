@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: m2+95XiRauSqH4d5+0Jmvg
+! Checksum: A72+vk+qM/nvmMs9hwkDZQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104210045
-! Last Modified: 2021年04月21日 00:45
+! Version: 202104210425
+! Last Modified: 2021年04月21日 04:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -88172,7 +88172,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.codemarketing.cloud^
 ||log.f-tra.com^
 ||log.gs3.goo.ne.jp^
-||log.nordot.jp^
+||log.nordot.jp^$~script
 ||log.popin.cc^
 ||log000.goo.ne.jp^
 ||macromill.com/imp/
@@ -96960,6 +96960,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||gettingpersonal.co.uk^*/scripts/app/shared/googleanalytics.js$script,~third-party
 @@||googleoptimize.com/optimize.js$script,domain=tentree.ca
 @@||lenovo.com/fea/js/adobeAnalytics/adobeAnalytics-searchComponent.js$xmlhttprequest,domain=lenovo.com
+@@||live.house.gov/js/analytics.$script,~third-party
 @@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
