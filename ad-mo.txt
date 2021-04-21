@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d//q4tJqHXBjIfLBhs9JUw
+! Checksum: HZW/zX1j2wHQSA7HhxkSNQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104211231
-! Last Modified: 2021年04月21日 12:31
+! Version: 202104211629
+! Last Modified: 2021年04月21日 16:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -37300,6 +37300,7 @@ menstennisforums.com#@#.top_ads
 ||hxwgfumgg.com^
 ||hyconsistenb.space^
 ||hyinlegvghul.com^
+||hyperoi.com^
 ||hyphenion.com^
 ||hysntzdseidl.com^
 ||hzkachqd.com^
@@ -51717,7 +51718,6 @@ $popup,third-party,domain=cloudvideo.tv|loader.to|mystream.to|play.hydracdn.netw
 ||8boobs.com/flr.js
 ||8boobs.com/images/8boobs.com/banners/
 ||8boobs.com/images/8boobs.com/istripper/
-||a.hyperoi.com^
 ||absoluporn.com/code/script/
 ||adult-sex-games.com/images/promo/
 ||adultasianporn.com/puty3s/
