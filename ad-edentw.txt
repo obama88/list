@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: f7u+JjKi3Qfp4uXTUeGXxw
+! Checksum: COn4t/toeaUFoYC5zURBfw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202104202036
-! Last Modified: 2021年04月20日 20:36
+! Version: 202104230045
+! Last Modified: 2021年04月23日 00:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1682,7 +1682,7 @@ gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,mega
 dfiles.ru#$#abort-on-property-read ads_script
 sports.ru,tribuna.com#$#override-property-read Object.prototype.getRandomArrayElement noopFunc
 volynpost.com#$#abort-on-property-read trek_shownow
-ati.su#$#abort-on-property-read Object.prototype.advApiClient
+ati.su#$#abort-on-property-read Object.prototype._bannerOrderAttr
 fssp.gov.ru#$#abort-on-property-read tingle
 allboxing.ru#$#abort-current-inline-script document.querySelector open
 dynamo.kiev.ua,liga.net,epravda.com.ua,pravda.com.ua,www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
