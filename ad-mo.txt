@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: esg/hDhIk2ua+IffyKCOlA
+! Checksum: Ites3iY76Vge9F29ZWTGHA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104232036
-! Last Modified: 2021年04月23日 20:36
+! Version: 202104240047
+! Last Modified: 2021年04月24日 00:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -20256,6 +20256,8 @@ _popunder+$popup
 ##.adSide
 ##.adSide203
 ##.adSide230
+##.adSideBarMPU
+##.adSideBarMPUTop
 ##.adSidebarButtons
 ##.adSidetileplus
 ##.adSize_MedRec
@@ -23089,6 +23091,7 @@ _popunder+$popup
 ##.advertising-banner
 ##.advertising-block
 ##.advertising-box-top-teaser
+##.advertising-container-top
 ##.advertising-content
 ##.advertising-fixed
 ##.advertising-header
@@ -32584,6 +32587,7 @@ menstennisforums.com#@#.top_ads
 ||327d49j2xt0nsr6o.pro^
 ||32979c00fcc59b5.com^
 ||32a79e2833309ebe.com^
+||32fd7f438cb.com^
 ||3381e74f70adfb59.com^
 ||3393.com^
 ||33ae985c0ea917.com^
@@ -32914,6 +32918,7 @@ menstennisforums.com#@#.top_ads
 ||88hb7evabd.com^
 ||89tmolir.top^
 ||8b0b17dc1f9f8010.com^
+||8b1192f16d.com^
 ||8baf7ae42000024.com^
 ||8bef5bb6b351ca5e.com^
 ||8bf8170108e3304.com^
@@ -33041,6 +33046,7 @@ menstennisforums.com#@#.top_ads
 ||abevc.club^
 ||abgeobalancer.com^
 ||abgligarchan.com^
+||ablebodiedcool.com^
 ||ablerivetdoubted.com^
 ||abluvdiscr.com^
 ||ablybeastssarcastic.com^
@@ -33059,6 +33065,7 @@ menstennisforums.com#@#.top_ads
 ||abusedbabysitters.com^
 ||abusticsevi.club^
 ||ac2msg.online^
+||ac7d539d732.com^
 ||acacdn.com^
 ||acalatthen.fun^
 ||accedenonre.club^
@@ -33352,6 +33359,7 @@ menstennisforums.com#@#.top_ads
 ||allartand.club^
 ||allayravage.com^
 ||allemodels.com^
+||allenprepareattic.com^
 ||alli-ti-cod.com^
 ||alli-ti-hunter.com^
 ||alliedsurfgrace.com^
@@ -34631,6 +34639,7 @@ menstennisforums.com#@#.top_ads
 ||clnk.me^
 ||clnyonxgsvov.com^
 ||cloakroomobsceneredress.com^
+||clodsplit.com^
 ||closiner.com^
 ||closkeyrespond.com^
 ||clotezar.com^
@@ -36341,6 +36350,7 @@ menstennisforums.com#@#.top_ads
 ||fifoyegflivpk.com^
 ||fifteenprefixselfemployed.com^
 ||fifteenthfeeding.com^
+||fifteenthprohibition.com^
 ||filamentrectificationsetback.com^
 ||filetarget.com^
 ||filetarget.net^
@@ -36858,6 +36868,7 @@ menstennisforums.com#@#.top_ads
 ||gospecularavch.site^
 ||got-money.online^
 ||gotjobbs.com^
+||gotohouse1.club^
 ||gotrkpp.com^
 ||gourmetadoonce.com^
 ||govbusi.info^
@@ -37360,6 +37371,7 @@ menstennisforums.com#@#.top_ads
 ||idelv.net^
 ||identifyluckyexactly.com^
 ||idiafix.com^
+||idsbaefm.com^
 ||idswinpole.casa^
 ||ie8eamus.com^
 ||iedzocfoflfgam.com^
@@ -37435,6 +37447,7 @@ menstennisforums.com#@#.top_ads
 ||inconsistencyspaceelusive.com^
 ||incurableinfertilecrap.com^
 ||indecentfaces.com^
+||indecisionremittance.com^
 ||independentdespisedevolution.com^
 ||index-markets.digital^
 ||indianship.club^
@@ -37789,6 +37802,7 @@ menstennisforums.com#@#.top_ads
 ||kbzdxt.com^
 ||kdbumyha.com^
 ||kdcmgzgxears.com^
+||kdkgwhntslalwj.com^
 ||keeicgjfnjws.com^
 ||keepinfit.net^
 ||keeptaza.com^
@@ -38938,6 +38952,7 @@ menstennisforums.com#@#.top_ads
 ||nalbusinespr.info^
 ||nalrxmmcs.com^
 ||namel.net^
+||namelyvulgarquote.com^
 ||nappybedcandid.com^
 ||narkalignevil.com^
 ||narrowperennialaffable.com^
@@ -39096,6 +39111,7 @@ menstennisforums.com#@#.top_ads
 ||niledestratherg.club^
 ||niltibse.net^
 ||nimelytranst.club^
+||nimhuemark.com^
 ||nimmediu.info^
 ||nindonsenat.club^
 ||ninecovetous.com^
@@ -40782,6 +40798,7 @@ menstennisforums.com#@#.top_ads
 ||russionsdeath.fun^
 ||rustleobtainedflute.com^
 ||rustyellow.com^
+||ruthlessbuyer.com^
 ||rutsneareta.com^
 ||ruuwkftrtegqj.com^
 ||ruwertur.com^
@@ -41887,6 +41904,7 @@ menstennisforums.com#@#.top_ads
 ||trainedgranddad.com^
 ||traistecbole.com^
 ||trampreliablediligence.com^
+||trandlife.info^
 ||transardugde.club^
 ||transientdeteriorate.com^
 ||transmittericilysunstroke.com^
@@ -42512,6 +42530,7 @@ menstennisforums.com#@#.top_ads
 ||wardenchamberensue.com^
 ||warfarewithdigestion.com^
 ||warmmyselfharness.com^
+||warningoffended.com^
 ||warpwrite.com^
 ||warsalsintrol.site^
 ||warten-sie-mal.xyz^
@@ -47182,6 +47201,7 @@ menstennisforums.com#@#.top_ads
 ||gonextpage.ru^$popup
 ||goodbookbook.com^$popup
 ||googleads.g.doubleclick.net^$popup
+||gotohouse1.club^$popup
 ||gotoplaymillion.com^$popup
 ||grand-ads.com^$popup
 ||granevahu.pro^$popup
@@ -47735,6 +47755,7 @@ menstennisforums.com#@#.top_ads
 ||trafforsrv.com^$popup
 ||trafyield.com^$popup
 ||traktrafficflow.com^$popup
+||trandlife.info^$popup
 ||trcklks.com^$popup
 ||trejar.com^$popup
 ||trellian.com^$popup
@@ -52884,7 +52905,9 @@ vidstream.io##.adv-space
 motorauthority.com##.adv-spacer
 veoh.com##.adv-title
 btn.com##.adv-widget
+worldarchitecture.org##.adv1WA1440
 futbol24.com##.adv2
+worldarchitecture.org##.adv2WA1440
 prohaircut.com##.adv3
 yesasia.com##.advHr
 thedailystar.net##.advatige
@@ -57841,6 +57864,7 @@ _xiuno_com_ad/
 ##style + .vdgdo
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
+||lyxuexin.com^
 .8ox.cn
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -72661,6 +72685,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||libs.baidu.com^$domain=138txt.com|18xs.org|1biqu.com|1kanshu.cc|230book.com|23hh.com|23txt.com|23wxx.com|258zw.com|266ks.com|27xsw.com|2baob.com|30sy.com|33yq.com|37zw.la|39shubao.com|3yt.com|477zw.com|52biquge.com|5ccc.tw|81zw.me|877zw.com|99mk.com|99shumeng.net|aixswx.com|aomolit.com|aoyuge.com|balingtxt.com|baoshuu.com|biqiuge8.com|biqubao.com|biqudu.tv|biquduo.com|biquge.com.cn|biquge.lu|biquge.tv|biquge11.com|biquge98.net|biqugecd.com|biqugego.com|biqugemm.com|biqugesc.com|biqusan.com|biquyi.com|bixia.org|bodekang.net|boluoxs.com|bookbao.org|botaodz.com|bqkan.com|bshuku.com|bswtan.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|clewx.com|damengzhu1.com|dashenxiaoshuo.com|day66.com|ddxs0.com|ddxsku.com|dushuge.net|farpop.com|fbxsw.com|gdbzkz.com|guaili.org|hatxt.com|hbfie.org|hehuamei.com|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hybiquge.com|iddwx.com|imiaobige.com|ishisetianxia.com|ixiatxt.com|ixs.la|jianlaixiaoshuo.com|jinshulo.com|jx.la|kkbiqu2.com|liewen.la|lindiankanshu.cc|liudatxt.com|loubiqu.com|lwtxt.net|lwxstxt.com|mhtwx.la|mubige.com|paoshu8.com|paoshuzw.com|pfwx.com|piaotianxs.com|ppskw.com|qbxs8.net|qianrenge.cc|qishusk.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shu008.com|shuhaiwu.com|shumil.co|siluke.tv|siluwx.org|sizhicn.com|skyzww.com|soxscc.com|tangsanshu.com|thxsw.com|ttzw.tv|tutengzw.com|txshuku.la|u33.me|uidzhx.com|v63xs.com|vipsk.org|wanwenhui.com|wenxuem.com|wrlwx.com|x23us.me|x81zw.com|xbiqugecc.com|xbiqugew.net|xbiquke.com|xbqge.net|xcmxsw.com|xdingdiann.com|xieyixs.com|xinshuhaige.com|xinxs.la|xs5200.com|xs98.com|xsbiqu.com|xsbiqugew.com|xsqishu.com|xsw55.net|xszww.com|xuanshu.com|xuehongxs.com|xyusk.com|yawenb.com|yikanxiaoshuoa.com|yq-888.com|yruan.com|yssm.info|yunxs.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zwdu.com|zzs5.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
+||ltaome.cn^
+||fskj100.cn^
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
 ###downdiv > .downcode
 ###gudingweiDiv
@@ -88095,7 +88121,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ppstatic.pl^*/track.js
 ||px.wp.pl^
 ||scontent.services.tvn.pl^
-||sgqcvfjvr.onet.pl^
 ||stats.asp24.pl^
 ||stats.media.onet.pl^
 ||stats.ulixes.pl^
@@ -99005,7 +99030,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||olx.pl^*/js/tracking/ninja.js$domain=olx.pl
 @@||pataks.pl/core,_assets$script,~third-party
 @@||polfan.pl/*/fingerprint2.min.js$script,~third-party
-@@||sgqcvfjvr.onet.pl^$script,domain=kobieta.onet.pl|newsweek.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
 @@||urbanowiczhaft.pl/wp-content/plugins/duracelltomi-google-tag-manager/$~third-party
 @@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm|wp.tv
