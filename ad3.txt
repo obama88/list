@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VPfSiGydPFFv/P6OQMGTtA
+! Checksum: QGOh1Kz8I+v44Y6P6xWpSw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202104240047
-! Last Modified: 2021年04月24日 00:47
+! Version: 202104240912
+! Last Modified: 2021年04月24日 09:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -31466,7 +31466,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||contents-tracking.beop.io^
 ||control.cityofcairns.com^$third-party
 ||conversions.genieventures.co.uk^
-||convertflow.co^*/events/
 ||convertflow.co^*/visitors/
 ||convertkit.com^*/visit
 ||cookies.livepartners.com^
