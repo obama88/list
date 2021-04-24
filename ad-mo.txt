@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NLOQl5iyE/tppGY2dTwoxQ
+! Checksum: HaL75iowMZC/iQ5yqcme4g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104241232
-! Last Modified: 2021年04月24日 12:32
+! Version: 202104241628
+! Last Modified: 2021年04月24日 16:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -66214,7 +66214,6 @@ mtrend.cn###morecontent > .morecontent_next[style]
 wenxuecity.com###morehealth-banner-1
 nick18.com,niko18.com###mov > .content
 gd163.cn,itavcn.com,jmnews.com.cn,xt700.com###msg_win
-kudm.net###msn
 yahoo.com###my-adsHPSPON
 yahoo.com###my-adsMBAR
 pianhd.com###myCarousel
@@ -75394,6 +75393,7 @@ fqsousou.com,kengso.com#@#.user-share
 /?livehit=
 /?mob.ct=
 /?record&key=
+/?sentry_key=
 /?swift-performance-tracking
 /_/lite/performance/*
 /__analytics/*
@@ -78860,8 +78860,6 @@ fqsousou.com,kengso.com#@#.user-share
 /sensor/statistic?
 /sensorsdata-
 /sensorsdata.$domain=~sensorsdata.cn
-/sentry.*/?sentry_key=
-/sentry/*/?sentry_key=
 /seo-track.
 /seo.googleAnalytics-
 /seo.googleAnalytics.
@@ -78907,6 +78905,7 @@ fqsousou.com,kengso.com#@#.user-share
 /sfCounter/*
 /share/analytics?
 /shareCounts.
+/shared/sentry/*
 /shareTrackClient.
 /sherlock.gif?
 /shinystat.
@@ -82900,7 +82899,7 @@ _mongo_stats/
 ||semasio.net^$third-party
 ||sematext.com^$third-party
 ||sendtraffic.com^$third-party
-||sentry-cdn.com^$third-party
+||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry.io^$third-party
 ||seomonitor.ro^$third-party
 ||seomoz.org^$third-party
