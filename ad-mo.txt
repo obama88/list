@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: H2WVwZsR40jQI8pMbbCgDQ
+! Checksum: CaPI8WNwDHAOi7AYP+W5mA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104252036
-! Last Modified: 2021年04月25日 20:36
+! Version: 202104260047
+! Last Modified: 2021年04月26日 00:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -30362,6 +30362,7 @@ _popunder+$popup
 ##.with-background-ads
 ##.with-wrapper-ads
 ##.withAds
+##.withBanners__ad
 ##.with_ctecad
 ##.wixAdsdesktopBottomAd
 ##.wl-ad
@@ -32469,6 +32470,7 @@ menstennisforums.com#@#.top_ads
 ||1298bab69bbc4.com^
 ||12cdee5830.com^
 ||12dc71b7cb820f2a.com^
+||12fb602fb307.com^
 ||12place.com^
 ||12xlwin6a.net^
 ||13190546cd1dec9bbdc.com^
@@ -32571,6 +32573,7 @@ menstennisforums.com#@#.top_ads
 ||2cnjuh34jbpoint.com^
 ||2cnjuh34jbstar.com^
 ||2d7bd9e6eb370143.com^
+||2d98e7587e.com^
 ||2dbd87c7a091b.com^
 ||2dpt.com^
 ||2f5a1f1fab21a56.com^
@@ -32730,6 +32733,7 @@ menstennisforums.com#@#.top_ads
 ||57473b6b571.com^
 ||57e3ascxh1.com^
 ||57fd2911f09b76.com^
+||580a41eea49e.com^
 ||584e8fce1b418.com^
 ||58b14921719ec.com^
 ||58b291f917728a2.com^
@@ -32743,6 +32747,7 @@ menstennisforums.com#@#.top_ads
 ||5b5a93686577c13.com^
 ||5c43cbc0f41.com^
 ||5c577fc74618431b.com^
+||5cf240aa2ef.com^
 ||5cwr93yyd4lf.com^
 ||5d02977f6511aa.com^
 ||5dabf928ad9ad4.com^
@@ -33066,6 +33071,7 @@ menstennisforums.com#@#.top_ads
 ||abridgeinputcontraceptive.com^
 ||abrjsiuuhet.com^
 ||abroadlynijiz.site^
+||abroodeuripi.com^
 ||abserv123.com^
 ||absolubleldan.site^
 ||absorbinginject.com^
@@ -33128,6 +33134,7 @@ menstennisforums.com#@#.top_ads
 ||adaptingtova.biz^
 ||adaranth.com^
 ||adbmi.com^
+||adca051e97e.com^
 ||addictedapartlazy.com^
 ||addressen.club^
 ||addression.club^
@@ -33454,6 +33461,7 @@ menstennisforums.com#@#.top_ads
 ||anothingahy.club^
 ||anothingerg.club^
 ||anothingsev.top^
+||answeredfluency.com^
 ||antaraimedia.com^
 ||antfindicater.site^
 ||antiadblocksystems.com^
@@ -34475,6 +34483,7 @@ menstennisforums.com#@#.top_ads
 ||chgilks.com^
 ||chiasephim.xyz^
 ||chichayen.com^
+||chichosebook.com^
 ||chickencashier.com^
 ||chieving.club^
 ||chigrikecy.pro^
@@ -34711,6 +34720,7 @@ menstennisforums.com#@#.top_ads
 ||coinverti.com^
 ||cold-cold-freezing.com^
 ||coldhardcash.com^
+||coljledqo.com^
 ||collationssunkenentire.com^
 ||collection-day.com^
 ||collectpush.com^
@@ -36913,6 +36923,7 @@ menstennisforums.com#@#.top_ads
 ||grapefruitlifestyle.com^
 ||graphli.net^
 ||graterfleeconduct.com^
+||gratingtode.com^
 ||graucoay.net^
 ||graunada.com^
 ||grauroocm.com^
@@ -37098,6 +37109,7 @@ menstennisforums.com#@#.top_ads
 ||healthoutabol.site^
 ||healthsmd.com^
 ||hearewe.com^
+||hearfromyou.biz^
 ||heartbrokendilapidation.com^
 ||hearthurstxz.club^
 ||heckagny.com^
@@ -38356,6 +38368,7 @@ menstennisforums.com#@#.top_ads
 ||mammalrussia.com^
 ||mamphxagal.com^
 ||mamydirect.com^
+||manageatea.biz^
 ||managemeasuredcypress.com^
 ||managesdancing.com^
 ||managining.club^
@@ -38950,6 +38963,7 @@ menstennisforums.com#@#.top_ads
 ||naccoun.top^
 ||nacfuns.com^
 ||nacticedsmall.club^
+||naemailom.fun^
 ||naganoadigei.com^
 ||naggingrugcolossal.com^
 ||naghocmu.com^
@@ -39652,6 +39666,7 @@ menstennisforums.com#@#.top_ads
 ||paintifiercute.club^
 ||paishuno.net^
 ||pakistant.club^
+||palasidesdoor.com^
 ||palibs.tech^
 ||pallxylophone.xyz^
 ||palpableequanimityshiver.com^
@@ -41167,6 +41182,7 @@ menstennisforums.com#@#.top_ads
 ||sjeffrontagr.top^
 ||sjgcswrvltrx.com^
 ||sjscxhknxeek.com^
+||sketchinferiorunits.com^
 ||skilyake.net^
 ||skinnyfinnishhi.com^
 ||sknkwpvrkz.com^
@@ -41429,6 +41445,7 @@ menstennisforums.com#@#.top_ads
 ||stospubede.xyz^
 ||stoutlionslick.com^
 ||stoutoffering.com^
+||stpd.cloud^
 ||strainemergency.com^
 ||straitreedanimated.com^
 ||strangersincentive.com^
@@ -42059,6 +42076,7 @@ menstennisforums.com#@#.top_ads
 ||ueuodgnrhb.com^
 ||ufferenchme.club^
 ||uffpsmfefu.com^
+||ufinkln.com^
 ||ufmmtncv.com^
 ||ufoukolt.com^
 ||ufow9xfashbm.com^
@@ -42137,6 +42155,7 @@ menstennisforums.com#@#.top_ads
 ||undedsunbese.site^
 ||undercoverbatch.com^
 ||underdividedhowever.com^
+||underneathfirsthand.com^
 ||underpantsadmiringcaress.com^
 ||underwards.site^
 ||underwearnavigable.com^
@@ -42389,6 +42408,7 @@ menstennisforums.com#@#.top_ads
 ||viralmediatech.com^
 ||viralvideos.pw^
 ||virashux.net^
+||virginoxygen.com^
 ||viriepak.com^
 ||visariomedia.com^
 ||visiads.com^
@@ -42548,6 +42568,7 @@ menstennisforums.com#@#.top_ads
 ||warten-sie-mal.xyz^
 ||warumbistdusoarm.space^
 ||wasp-182b.com
+||wasprenovate.com^
 ||wastedcooperate.com^
 ||wastesshimssat.world^
 ||watchesbrow.com^
@@ -43310,6 +43331,7 @@ menstennisforums.com#@#.top_ads
 ||zxcvxmtzs.com^
 ||zxdardwpsuf.com^
 ||zxevjtzvqlxy.com^
+||zxgroymagqu.com^
 ||zxryytzesvn.com^
 ||zxxds.net^
 ||zxxtkrkzfyy3.com^
@@ -47788,6 +47810,7 @@ menstennisforums.com#@#.top_ads
 ||ucheephu.com^$popup
 ||udncoeln.com^$popup
 ||uel-uel-fie.com^$popup
+||ufinkln.com^$popup
 ||ufpcdn.com^$popup
 ||uhpdsplo.com^$popup
 ||uitopadxdy.com^$popup
@@ -52733,6 +52756,7 @@ nutritioninsight.com###verticlblks
 sofascore.com###video-banner-root
 mentalfloss.com###video-div-polo
 eplsite.uk###video-section
+yahoo.com###viewer-LREC2-iframe
 gumtree.com###vipBanner
 miami.com###visit
 browserleaks.com###vpn_img
@@ -65310,6 +65334,8 @@ _yad_jsonp_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 szxx.com.cn###A0
+win7xzb.com##.four_box
+win7xzb.com##.ware_gs
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -81109,7 +81135,6 @@ _mongo_stats/
 ||analytk.com^$third-party
 ||anametrix.com^$third-party
 ||anametrix.net^$third-party
-||andyetanotherthing.com^$third-party
 ||angelfishstats.com^$third-party
 ||angorch-cdr7.com^$third-party
 ||angsrvr.com^$third-party
@@ -81420,7 +81445,6 @@ _mongo_stats/
 ||cloud-exploration.com^$third-party
 ||cloud-iq.com^$third-party
 ||cloudtracer101.com^$third-party
-||cmcintra.net^$third-party
 ||cmcore.com^$third-party
 ||cmmeglobal.com^$third-party
 ||cmptch.com^$third-party
@@ -81482,7 +81506,6 @@ _mongo_stats/
 ||countergeo.com^$third-party
 ||counterland.com^$third-party
 ||counters4u.com^$third-party
-||counterservis.com^$third-party
 ||countersforlife.com^$third-party
 ||countertracker.com^$third-party
 ||counterviews.net^$third-party
@@ -82942,7 +82965,6 @@ _mongo_stats/
 ||seomonitor.ro^$third-party
 ||seomoz.org^$third-party
 ||seoparts.net^$third-party
-||seoradar.ro^$third-party
 ||serious-partners.com^$third-party
 ||serv-ac.com^$third-party
 ||servebom.com^$third-party
@@ -83445,7 +83467,6 @@ _mongo_stats/
 ||vmmpxl.com^$third-party
 ||voicefive.com^$third-party
 ||volantix.com^$third-party
-||voodooalerts.com^$third-party
 ||votistics.com^$third-party
 ||vprza.com^$third-party
 ||vtracker.net^$third-party
@@ -83596,7 +83617,6 @@ _mongo_stats/
 ||zoosnet.net^$third-party
 ||zoossoft.net^$third-party
 ||zqtk.net^$third-party
-||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
 ||zuzab.com^$third-party
 $third-party,xmlhttprequest,domain=opensubtitles.org
@@ -83747,7 +83767,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a-calc.de^$third-party
 ||abc.pema.cl^$third-party
 ||acbp0020171456.page.tl^
-||ad-miner.com^$third-party
 ||adless.io^$third-party
 ||adminer.com^$third-party
 ||aleinvest.xyz^$third-party
@@ -83796,7 +83815,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudcoins.co^$third-party
 ||cloudflareinsights.com^$third-party
 ||cnhv.co^$third-party
-||coin-cube.com^
 ||coin-have.com^$third-party
 ||coin-hive.com^$third-party
 ||coin-service.com^$third-party
@@ -83836,7 +83854,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dzizsih.ru^$third-party
 ||easyhash.de^$third-party
 ||easyhash.io^$third-party
-||encoding.ovh^
 ||etacontent.com^
 ||eth-pocket.com^$third-party
 ||eth-pocket.de^$third-party
@@ -83862,7 +83879,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gay-hotvideo.net^
 ||goldoffer.online^$third-party
 ||googleanalytcs.com^$third-party
-||graftpool.ovh^
 ||gramombird.com^
 ||greengaming.de^$third-party
 ||gus.host^$third-party
@@ -83872,7 +83888,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hashvault.pro^$third-party
 ||hashzone.io^$third-party
 ||hemnes.win^$third-party
-||hide.ovh^
 ||hostcontent.live^$third-party
 ||hostingcloud.faith
 ||hostingcloud.party
@@ -83932,10 +83947,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nddmcconmqsy.ru^$third-party
 ||ner-de-mi-nis-6.info^$third-party
 ||nerohut.com^$third-party
-||never.ovh^
 ||nexioniect.com^
 ||nextbdom.ru^$third-party
-||nexttime.ovh^
 ||nfwebminer.com^$third-party
 ||niematego.tk^$third-party
 ||nimiq.com^$third-party
@@ -83955,7 +83968,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||party-vqgdyvoycc.now.sh^$third-party
 ||pertholin.com^$third-party
 ||play.mix.kinostuff.com^
-||poolmining.eu^$third-party
 ||pr0gram.org^$third-party
 ||rand.com.ru^
 ||reauthenticator.com^
@@ -83985,7 +83997,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thewhizproducts.com^$third-party
 ||thewise.com^$third-party
 ||thismetric.com^$third-party
-||tidafors.xyz^$third-party
 ||tmmp.io^$third-party
 ||traffic.tc-clicks.com^$third-party
 ||truemine.org^$third-party
@@ -84796,7 +84807,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hetchi.com^$third-party
 ||lead.im^$third-party
 ||mimgoal.com^$third-party
-||ritogaga.com^$third-party
 ||gpr.hu^$third-party
 ||hirmatrix.hu^$third-party
 ||mystat.hu^$third-party
@@ -85927,7 +85937,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d4ax0r5detcsu.cloudfront.net^
 ||d6jkenny8w8yo.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
-||d8rk54i4mohrb.cloudfront.net^
 ||dadi.technology^$third-party
 ||daq0d0aotgq0f.cloudfront.net^
 ||data.alexa.com^
@@ -87183,7 +87192,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.downdetector.com^
 ||tracker.financialcontent.com^
 ||tracker.icerocket.com^
-||tracker.iqnomy.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.roitesting.com^
@@ -87644,7 +87652,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||im.aol.de^
 ||info.elba.at^$third-party
 ||insene.de/tag/$third-party
-||insights.blogfoster.com^$third-party
 ||iqcontentplatform.de/tracking/
 ||js.stroeermediabrands.de^$third-party
 ||koe-vip.com/statistik/
