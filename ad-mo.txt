@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /7N8W1dff/HtQYGFYWninA
+! Checksum: pS3Vkw3ZieWiGzpEpeoiRQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202104270047
-! Last Modified: 2021年04月27日 00:47
+! Version: 202104270911
+! Last Modified: 2021年04月27日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -40529,6 +40529,7 @@ menstennisforums.com#@#.top_ads
 ||requestion.club^
 ||requiresdetached.com^
 ||requivalfun.club^
+||rereddit.com^
 ||rereegny.net^
 ||reroplittrewheck.pro^
 ||resalag.com^
@@ -44381,6 +44382,7 @@ menstennisforums.com#@#.top_ads
 ||city-ads.de^$third-party
 ||clash-media.com^$third-party
 ||cleafs.com^$third-party
+||cleverads.vn^$third-party
 ||click.scour.com^$third-party
 ||clickable.com^$third-party
 ||clickad.pl^$third-party
@@ -48653,6 +48655,7 @@ menstennisforums.com#@#.top_ads
 ||ad.smartmediarep.com^
 ||ad.valuecalling.com^
 ||ad.wsod.com^
+||ad.xiaomi.com^
 ||adaptv.advertising.com^
 ||adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||adfoc.us^$script,third-party
@@ -50226,6 +50229,9 @@ menstennisforums.com#@#.top_ads
 ||ziffdavisenterprise.com/contextclicks/
 ||ziffprod.com/CSE/BestPrice?
 ||zip2save.com/widget.php?
+||ad.intl.xiaomi.com^
+||ad.samsungadhub.com^
+||samsungadhub.com^$third-party
 /^https?:\/\/[a-z0-9]{7,}\.online\/[a-z0-9]{7,}\.js$/$script,third-party
 /^https?:\/\/s3\.amazonaws\.com\/[a-f0-9]{45,}\/[a-f,0-9]{8,10}$/$script,third-party,xmlhttprequest,domain=~amazon.com
 /^https?:\/\/s3\.amazonaws\.com\/[a-f0-9]{45,}\/secure\.js/$script,third-party,xmlhttprequest,domain=~amazon.com
@@ -81549,13 +81555,7 @@ _mongo_stats/
 ||donreach.com^$third-party
 ||dotaki.com^$third-party
 ||dotjs.com^$third-party
-||doubleclick.net/activity$third-party
-||doubleclick.net/imp%$third-party
-||doubleclick.net/imp;$third-party
-||doubleclick.net/json?$third-party
-||doubleclick.net/pixel?$third-party
-||doubleclick.net^$image,third-party
-||doubleclick.net^*/trackimp/$third-party
+||doubleclick.net^$third-party
 ||doubleverify.com^$third-party
 ||dpbolvw.net^$third-party
 ||dps-reach.com^$third-party
@@ -85308,6 +85308,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
 ||analytics.erepublic.com^
+||analytics.facebook.com^$third-party
 ||analytics.favcy.com^
 ||analytics.foresee.com^
 ||analytics.groupe-seb.com^
@@ -85336,6 +85337,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.performable.com^
 ||analytics.photorank.me^
 ||analytics.piksel.com^
+||analytics.pinterest.com^$third-party
+||analytics.pointdrive.linkedin.com^
 ||analytics.prezly.com^
 ||analytics.prod.aws.ecnext.net^
 ||analytics.radiatemedia.com^
@@ -85486,7 +85489,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bestofmedia.com^*/beacons/$~image
 ||bfnsoftware.com^*/environment.cgi?
 ||bhphotovideo.com/imp/
-||bid.g.doubleclick.net^
 ||bidsystem.com/ppc/sendtracker.aspx?
 ||bin.clearspring.*/b.swf
 ||bing.com/aclick/$third-party
@@ -85659,7 +85661,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudfunctions.net/function-record-stream-metric?
 ||cloudfunctions.net/ingest?
 ||clustrmaps.com/counter/$third-party
-||cm.g.doubleclick.net^
 ||cmail19.com/t/$image,third-party
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
@@ -86906,7 +86907,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.datahjaelp.net^
 ||stats.edicy.com^
 ||stats.fomo.com^
-||stats.g.doubleclick.net^
 ||stats.geegain.com^
 ||stats.gifs.com^
 ||stats.heyoya.com^
@@ -87211,6 +87211,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trk.bhs4.com^
 ||trk.cloudsna.com^
 ||trk.email.dynect.net^
+||trk.pinterest.com^$third-party
 ||trk.pswec.com^$third-party
 ||trk.sele.co^
 ||trk.techtarget.com^
@@ -87349,6 +87350,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||widget.quantcast.com^
 ||widgetbox.com/syndication/track/
 ||widgethost.com/pax/counter.js?
+||widgets.pinterest.com^$third-party
 ||widgetserver.com/metrics/
 ||widgetserver.com/t/
 ||widgetserver.com^*/image.gif?
@@ -87404,6 +87406,30 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zmags.com/a/p/p.js
 ||zoover.co.uk/tracking/
 ||zope.net^*/ghs_wa.js
+||adsdk.yandex.ru^$third-party
+||analytics-api.samsunghealthcn.com^
+||analytics.mobile.yandex.net^$third-party
+||analytics.samsungknox.com^
+||app.chat.xiaomi.net^$third-party
+||appmetrica.yandex.com^$third-party
+||bigdata.ssp.samsung.com^
+||data.hicloud.com^$third-party
+||extmaps-api.yandex.net^$third-party,xmlhttprequest
+||insights.samsung.com^
+||logbak.hicloud.com^
+||logservice.hicloud.com^
+||metrics-dra.dt.hicloud.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||mistat.xiaomi.com^
+||open.oneplus.net^$third-party
+||sa.api.intl.miui.com^
+||stat.xiaomi.com^
+||stats.redditmedia.com^$third-party
+||supportmetrics.apple.com^
+||tracking.miui.com^
+||trackingshipment.apple.com^$third-party
+||yandexadexchange.net^$third-party
 /^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
 ||convsgmp.taboola.com^
 ||la-sync.taboola.com^
