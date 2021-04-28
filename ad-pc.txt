@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yXwn7/TVBVF+Kgn6bka76A
+! Checksum: IaFkI8COJjS/Yqa7JO6DOQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202104282037
-! Last Modified: 2021年04月28日 20:37
+! Version: 202104290048
+! Last Modified: 2021年04月29日 00:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -14705,6 +14705,8 @@ _popunder+$popup
 ###div-dfp-BelowContnet
 ###div-dfp-bottom_leaderboard
 ###div-gpt-FloorAd
+###div-gpt-InArticle1
+###div-gpt-InArticle2
 ###div-gpt-LDB1
 ###div-gpt-MPU1
 ###div-gpt-MPU2
@@ -31452,6 +31454,7 @@ _popunder+$popup
 ##a[href^="http://https://www.get-express-vpn.com/offer/"]
 ##a[href^="https://affiliate.rusvpn.com/click.php?"]
 ##a[href^="https://go.nordvpn.net/aff"] > img
+##a[href^="https://go.nordvpn.net/aff"] img
 ##a[href^="https://torguard.net/aff.php"] > img
 ##a[href^="https://track.ultravpn.com/"]
 ##a[href^="https://www.get-express-vpn.com/offer/"]
@@ -34357,6 +34360,7 @@ menstennisforums.com#@#.top_ads
 ||calfsbreedstax.com^
 ||callburdenblizzard.com^
 ||calorieintimidating.com^
+||calvali.com^
 ||camads.net^
 ||camakaroda.com^
 ||cambrianter.club^
@@ -37040,6 +37044,7 @@ menstennisforums.com#@#.top_ads
 ||grupticaje.pro^
 ||grursusy.com^
 ||grutopsathu.pro^
+||grygrothapi.pro^
 ||gscarcinoh.club^
 ||gseyriwpozfxf.com^
 ||gsfillegesga.club^
@@ -37526,6 +37531,7 @@ menstennisforums.com#@#.top_ads
 ||incapablepublicityvolatile.com^
 ||incarcererez.xyz^
 ||inclinationwitchcraftafresh.com^
+||includepurple.com^
 ||incommandary.club^
 ||incompatiblemisterfarmer.com^
 ||incompetentsummitseparation.com^
@@ -38362,6 +38368,7 @@ menstennisforums.com#@#.top_ads
 ||lylibertleveni.site^
 ||lytradiodistr.info^
 ||lyzenoti.pro^
+||lzdtetwgfyt.com^
 ||m-rtb.com^
 ||m-shes.ru^
 ||m0hcppadsnq8.com^
@@ -38725,6 +38732,7 @@ menstennisforums.com#@#.top_ads
 ||mixpo.com^
 ||mixturehopeful.com^
 ||mjbuuxt7l18r.com^
+||mjlpqbklxgt.com^
 ||mjlsiopjesbn.com^
 ||mjmbfjbgtqpu.com^
 ||mk1lyl406xmp.com^
@@ -40093,6 +40101,7 @@ menstennisforums.com#@#.top_ads
 ||prfctmney.com^
 ||pricestern.top^
 ||prieseerunbe.info^
+||prime-vpnet.com^
 ||primroseconstellationrapidly.com^
 ||princided.club^
 ||prioritybeforehand.com^
@@ -41511,6 +41520,7 @@ menstennisforums.com#@#.top_ads
 ||submarineundergonedebark.com^
 ||subscriberpursuehum.com^
 ||substandferex.site^
+||suburbdiscernbreeder.com^
 ||suburbglaze.com^
 ||subwayjelly.com^
 ||successageq.site^
@@ -42189,6 +42199,7 @@ menstennisforums.com#@#.top_ads
 ||unknowlejir.club^
 ||unlikebenignityeyeshadow.com^
 ||unlimitate.club^
+||unlimited-media.co^
 ||unlomblam.pro^
 ||unmortalloose.com^
 ||unoblotto.net^
@@ -47002,6 +47013,7 @@ menstennisforums.com#@#.top_ads
 ||cadsans.com^$popup
 ||cadsats.com^$popup
 ||calcch.com^$popup
+||calvali.com^$popup
 ||camscaps.net^$popup
 ||capacygre.top^$popup
 ||careerjournalonline.com^$popup
@@ -47195,6 +47207,7 @@ menstennisforums.com#@#.top_ads
 ||getalltraffic.com^$popup
 ||getmyads.com^$popup
 ||gfdfhdh5t5453.com^$popup
+||giddinessdefensivesubject.com^$popup
 ||giveaways.club^$popup
 ||glareart.com^$popup
 ||glassmilheart.com^$popup
@@ -47216,6 +47229,7 @@ menstennisforums.com#@#.top_ads
 ||groorgex.net^$popup
 ||grown-zero-breeze-belong.xyz^$popup
 ||grtyj.com^$popup
+||grygrothapi.pro^$popup
 ||gsniper2.com^$popup
 ||h3lw971ym6.com^$popup
 ||h8vzwpv.com^$popup
@@ -47537,6 +47551,7 @@ menstennisforums.com#@#.top_ads
 ||premium-members.com^$popup
 ||preskalyn.com^$popup
 ||prfdesk.pro^$popup
+||prime-vpnet.com^$popup
 ||privacy4browsers.com^$popup
 ||prjcq.com^$popup
 ||prmtracking.com^$popup
@@ -47789,6 +47804,7 @@ menstennisforums.com#@#.top_ads
 ||uhpdsplo.com^$popup
 ||uitopadxdy.com^$popup
 ||ukoffzeh.com^$popup
+||unlimited-media.co^$popup
 ||unseen2020.com^$popup
 ||uptopopunder.com^$popup
 ||uselnk.com^$popup
@@ -49079,6 +49095,7 @@ menstennisforums.com#@#.top_ads
 ||d25dfknw9ghxs6.cloudfront.net^
 ||d25xkbr68qqtcn.cloudfront.net^
 ||d26c6kzavi5zwd.cloudfront.net^
+||d28s7kbgrs6h2f.cloudfront.net^
 ||d29dbajta0the9.cloudfront.net^
 ||d29i6o40xcgdai.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
@@ -51338,7 +51355,7 @@ menstennisforums.com#@#.top_ads
 ||zdnet.com/m3d0s1/
 ||zkillboard.com/img/brave_switch.png
 /^https?:\/\/.*.(club|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|biz|re|me|casa|top|space|network|live|work|systems|me|ml|world|life)\/.*/$third-party,domain=9xupload.xyz|bdupload.asia|desiupload.co|flashx.tv|powvideo.net|powvldeo.me|videobin.co
-/^https?:\/\/[0-9a-z]{11,20}.*.com\/.*/$third-party,domain=9xmovies.app|9xupload.xyz|cloudvideo.tv|dood.watch|mixdrop.co|mixdrop.to|mystream.to|ovagames.com|playtube.ws|strtape.cloud|supervideo.tv|uproxy.to|upstream.to|vidlox.me|vivo.sx|voe.sx|vupload.com|wowlive.info
+/^https?:\/\/[0-9a-z]{11,20}.*.com\/.*/$third-party,domain=9xmovies.app|9xupload.xyz|cloudvideo.tv|dood.watch|mixdrop.co|mixdrop.sx|mixdrop.to|mystream.to|ovagames.com|playtube.ws|strtape.cloud|strtape.tech|supervideo.tv|uproxy.to|upstream.to|vidlox.me|vivo.sx|voe.sx|vupload.com|wowlive.info
 /^https?:\/\/[a-z0-9]{4,}\.(dotabuff|trackdota|speedrun|overbuff|dotabuff)\.com\/[a-z0-9]{1,6}.*/$script,~third-party,xmlhttprequest
 |https://$script,subdocument,third-party,domain=coincodex.com
 ||bustle.com^*/prebid-
@@ -57919,6 +57936,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||40fenzhong.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/d/*-*-*.ap|$script,third-party
@@ -65337,7 +65355,9 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||galaxymedia.xyz/app/images/banner.gif
 szxx.com.cn###A0
+zhaohuangpian.net##A[href="https://galaxymedia.xyz/app/"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -99006,7 +99026,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||analytics.ooyala.com/static/analytics.js$script,domain=humo.be
 @@||centprod.com/nd/assets/js/analytics.js$script,domain=centprod.com
 @@||d2zv6vzmaqao5e.cloudfront.net/css/foodticket/*_google_analytics.js
-@@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|mediamarkt.nl
+@@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
 @@||optimizely.addmilk.nl^$image,domain=simyo.nl
 !---------- Finnish ----------
 @@||adobedtm.com^*/satelliteLib-$script,domain=gigantti.fi
@@ -100966,128 +100986,3 @@ weibo.com###Pl_Core_P7MultiPicPlay__7
 !---【相关推荐】
 weibo.com##.apps_PCD_reco_detail_right
 ! 乘风 视频广告过滤规则
-v.youku.com##.control-phonewatch,#right-title-ad-banner
-youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
-!v.youku.com##+js(nano-stb)
-||atm.youku.com/
-||cibntv.net/youku/$media
-||valipl.cp31.ott.cibntv.net/$media
-|https://static.youku.com/index/js/ikuAdapterNew.js
-|https://js.ykimg.com/youku/dist/js/lib/ikuAdapterNew.js
-!||ykimg.com/material/$image
-!youku.com##.ad-wrap
-||sealine.youku.com/yk/*callback=adpagesdk$script
-iqiyi.com##div[data-adzone],#block-V
-!iqiyi.com##+js(nano-sib)
-iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
-!||t7z.cupid.iqiyi.com/show$script,important
-||static.iqiyi.com/js/common/mars_v.js$script
-||iqiyi.com/videos/other/20$xmlhttprequest,object-subrequest
-||iqiyipic.com/image/20*_100000$image
-||ssports.iqiyi.com/json/shop/shopInfo
-show.ssports.com
-||ssports.iqiyi.com/app/$object-subrequest
-qq.com##.mod_ad
-v.qq.com##.txp_ad
-v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
-v.qq.com,sports.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
-@@||video.qq.com/fcgi-bin/
-||mark.l.qq.com/fcgi-bin/get_video_mark_all?idlist=
-adss.video.qq.com
-miaozhen.com
-reachmax.cn
-scorecardresearch.com
-tencentmind.com
-xtgreat.com
-bilibili.com##.gg-floor-module,#slide_ad,#slide_ad+a[data-target-url]
-||api.bilibili.com/x/web-show/res/loc?pf=$~script
-||hdslb.com/bfs/sycp/creative_img/$image
-acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
-cctv.com###bgAd_div
-cctv.com,ddrk.me##+js(aeld,dblclick,isImmediatePropagationStopped)
-||imall.cctv.com/$subdocument
-||bjcathay.com/
-!||player.cntv.cn/h5vod/$script
-pptv.com##div[id^=afp_],div[id$=-afp],#video-download-game
-||synacast.com
-||g.pptv.com/game/$subdocument
-@@||tb.mgtv.com/sdk/*/ad-sdk.js$script
-||video.da.mgtv.com/$media
-ys.da.mgtv.com
-||da.mgtv.com/mediafiles/wiad_creative/$image
-@@||js.tv.itc.cn/gg.seed.js
-||css.tv.itc.cn/m/img/player/dlBanner.$image
-||data.vod.itc.cn/*&prod=ad&$media
-||api.my.tv.sohu.com/wm/getads.do?
-||aty.sohu.com/
-||go.sohu.com/
-||tv.sohu.com/upload/csad/admaster/$image
-tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
-1905.com##.ad-couplet,#hd-tab-label4,div.bd-tab.video-list:last-child
-||aliyun.com^$domain=1905.com
-||aliyuncs.com^$domain=1905.com
-@@||ark.letv.com/adx?adzone=
-@@||stat.letv.com/$script
-*/letv-gug/$media,object-subrequest
-||letvimg.com/$object,object-subrequest
-||letvimg.com/*_gugwl/$image
-||js.letvcdn.com/*_banner_$script
-||banana.le.com/
-adxvip.com
-behe.com
-biddingx.com
-cr-nielsen.com
-fancyapi.com
-kejet.net
-||jd.com/$domain=le.com
-ulmdb.cn
-yoyi.com.cn
-zhiziyun.com
-le.com##.banner_ad,div.banner_left,div.banner_right,.min_pause_img
-douyu.com##div[class$="-ad"],div[class|=ad],div.no-login
-||douyucdn.cn/adxdsp/$image
-||wan.douyu.com/
-douyu.com,huya.com##a[href^="https://g.wan."]
-huya.com###hy-ad,#hy-ab,#huya-ab
-||g.huya.com/
-||pub.funshion.com
-*/preroll/$media,domain=91porn.com
-||91p20.space^
-||waust.at^
-dililitv.cc##+js(aeld,dblclick,dp.fullScreen.request)
-||www.dililitv.cc/*.php?ad=$script
-js.dilidd.com
-dililitv.cc,hmtv.me,imeiju.io##+js(acis,Object.defineProperty,location.href)
-dyjihe.com##.tempWrap
-haitur.com,haicaoys.com##.dplayer-web-fullscreen-fix .float-box
-haitur.com##.container:style(max-width:90%!important;width:90%!important)
-haitur.com##.left-content:style(width:77%!important)
-dyjihe.com,hehua.net,imomoe.*,kakadm.com,milimili.tv,qiqidongman.com,vodxc.in##+js(ra, target, a[href^="/"])
-||alicdn.com/$image,domain=api.xiaomingming.org
-imomoe.*###adl,#adr
-yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
-yatu.tv##+js(set,document.oncontextmenu,null)
-||tracker.$xhr,websocket,script,ping
-3z9e.cn
-7nsc.cn
-7b6l2j.cn
-anquanzhuomian.com
-ch-hr12333.com
-g1c5.com
-ieeod0.com
-fourier.taobao.com
-v4dwkcv.com
-weizhenwx.com
-youle55.com
-bmbaike.cn
-buzx53.cn
-cqqc3.com
-dacedsfa.cn
-qdwght.com
-quickapp.cn
-xcsci.cn
-xixiqiu.com
-xv5b.com
-xz6d.com
-||www.yatu.tv:88/image/*.gif^$image
-||www.yatu.tv:88/m/images/$image
