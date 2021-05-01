@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oI53CxhNwmW8riwC+sYDBQ
+! Checksum: FVE/BNRarBewBuG+TV/+Kw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202105012034
-! Last Modified: 2021年05月01日 20:34
+! Version: 202105020041
+! Last Modified: 2021年05月02日 00:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -48805,6 +48805,7 @@ menstennisforums.com#@#.top_ads
 ||alluremedia.com.au^*/campaigns/
 ||alpsat.com/banner/
 ||altushost.com/docs/$third-party
+||alysson.de^$domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|radiome.at|radiome.de|radiome.fr
 ||amazonaws.com^$script,subdocument,xmlhttprequest,domain=ndtv.com|streamplay.to|usersfiles.com|vshare.eu|yify-movies.net
 ||amazonaws.com^$third-party,xmlhttprequest,domain=downloadpirate.com|vshare.eu
 ||an.yandex.ru^$domain=~e.mail.ru
@@ -57969,6 +57970,9 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||bjzsyx.cn^
+||ktdlsb.com^
+||whzxpm.cn^
 ||idy666.com^
 ||gzwxdq.cn^
 ||bibilm.com^
@@ -65393,6 +65397,7 @@ _yad_jsonp_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||zjjhfc.com/js/zt.js
+||alicdn.com/kf/Ucdb60470db0f4e2ca6a52706ec252313S.jpg
 szxx.com.cn###A0
 ssr.tools##.asb
 ssr.tools##.asb-post-footer
