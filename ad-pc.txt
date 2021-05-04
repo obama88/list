@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 69Mv5eV0+GvfeXrijfqgFQ
+! Checksum: E2gHL+CjHG5DmqX95hlTuw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202105042033
-! Last Modified: 2021年05月04日 20:33
+! Version: 202105050036
+! Last Modified: 2021年05月05日 00:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -55868,6 +55868,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||krotoszyn.pl/uploads/pub/ads_files/$image,~third-party
 @@||labymod.net/affiliate/$~third-party
 @@||mail.bg/mail/index/getads/$xmlhttprequest
+@@||massariuscdn.com/pubs/welingelichtekringen/$domain=welingelichtekringen.nl
 @@||mbank.cz/Adv/Scripts/$~third-party
 @@||mbank.sk/Adv/Scripts/$~third-party
 @@||meduza.io/static/ads/$media,~third-party
